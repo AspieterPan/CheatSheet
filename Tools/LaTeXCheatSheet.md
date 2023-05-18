@@ -1,4 +1,4 @@
-#LaTeT Cheat Sheet
+# LaTeXCheatSheet
 
 ## 希腊字母
 

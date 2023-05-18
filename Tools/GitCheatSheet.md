@@ -1,4 +1,4 @@
-# GitCheatSheat
+# GitCheatSheet
 
 ```bash
 # 修改上一次的提交，不会产生新的提交
