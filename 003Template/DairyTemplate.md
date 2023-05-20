@@ -5,6 +5,3 @@ aliases:
 tags: 
 from: 
 ---
-# DairyTemplate
-
-
