@@ -1,2 +1,7 @@
 .vscode
 .obsidian
+.DS_Store
+*.pdf
+*.epub
+*.jpg
+*.png
