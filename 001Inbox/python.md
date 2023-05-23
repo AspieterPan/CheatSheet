@@ -1,0 +1,4 @@
+---
+Aliases: [ "#python" ]
+---
+# python

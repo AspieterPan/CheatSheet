@@ -3,15 +3,6 @@ tags: todo
 ---
 # Todo
 
-- [Todo](#todo)
-  - [408](#408) ^ea6994
-  - [Math](#math)
-  - [Linux](#linux)
-  - [Missing Semester](#missing-semester)
-  - [C 语言多线程](#c-语言多线程)
-  - [Python 实战](#python-实战)
-  - [Python Numpy](#python-numpy)
-
 ## Math
 
 - [ ] Advanced Math

@@ -1,27 +1,5 @@
 # LinuxCommands
 
-- [LinuxCommands](#linuxcommands)
-  - [HELP](#help)
-    - [man](#man)
-    - [tldr](#tldr)
-  - [FILES AND MOVING](#files-and-moving)
-    - [ls](#ls)
-    - [tree](#tree)
-    - [mkdir](#mkdir)
-    - [mv](#mv)
-    - [rm](#rm)
-    - [touch](#touch)
-  - [FIND AND MODIFY](#find-and-modify)
-    - [find](#find)
-    - [fd (better find)](#fd-better-find)
-    - [grep](#grep)
-    - [rg (better grep)](#rg-better-grep)
-    - [sed](#sed)
-    - [awk](#awk)
-    - [sort](#sort)
-    - [uniq](#uniq)
-    - [wc](#wc)
-
 ## HELP
 
 ### man

@@ -5,3 +5,4 @@ aliases: [HA]
 tags: []
 from: 
 ---
+# home agent

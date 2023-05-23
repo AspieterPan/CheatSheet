@@ -5,6 +5,7 @@ aliases: []
 tags: []
 from:
 ---
+# Bivariate Normal Distribution
 
 The bivariate normal distribution, also known as the two-dimensional normal distribution, is a continuous probability distribution defined on a two-dimensional plane, with the probability density function being the product of two [[Normal Distribution]]. In the bivariate normal distribution, the random variables follow a bell-shaped curve in both directions and have linear correlation between them.
 

@@ -1,0 +1,4 @@
+---
+Aliases: [ "#Math" ]
+---
+# Math/MathEquation
