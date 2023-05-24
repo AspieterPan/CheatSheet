@@ -1,10 +1,11 @@
 ---
 title: Normal Distribution
 uid: 202304141423
-aliases: [正态分布]
-tags: []
+aliases: 正态分布
+tags: Math 
 from:
 ---
+# Normal Distribution
 
 $$f(x) = \frac{1}{\sigma \sqrt{2\pi}} \exp\left\{-\frac{1}{2}(\frac{x-\mu}{\sigma})^2\right\}$$
 
