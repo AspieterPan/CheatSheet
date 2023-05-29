@@ -1,6 +1,6 @@
 ```dataview
 task
-from "008Todo"
-where !contains(file.tags, "python")
+From "008Todo"
+where !contains(file.Tags, "python")
 group by file.name
 ```

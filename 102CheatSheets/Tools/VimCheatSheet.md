@@ -19,8 +19,8 @@ Vim插入模式下，按 `<Ctrl-r>%` 可将当前文件名输入到文件中
 | :t           | 文件名的尾。例如../path/test.c 将转变为 test.c                                                       |
 | :r           | 无扩展名的文件名。例如../path/test 将转变为 test                                                     |
 | :e           | 扩展名                                                                                               |
-| : s?from?to? | 将第一次出现的 from 字符串改变为 to 字符串                                                           |
-| :gs?from?to? | 将所有的字符串 from 改变为 to 字符串                                                                 |
+| : s?From?to? | 将第一次出现的 From 字符串改变为 to 字符串                                                           |
+| :gs?From?to? | 将所有的字符串 From 改变为 to 字符串                                                                 |
 
 ## 快速跳转 
 

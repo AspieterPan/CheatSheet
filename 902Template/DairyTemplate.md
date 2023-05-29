@@ -1,8 +1,8 @@
 ---
-uid: {{date:YYYYMMDDHHmm}}
-aliases: 
-tags: 
-from: 
+Uid: {{date:YYYYMMDDHHmm}}
+Aliases: 
+Tags: 
+From: 
 ---
 
 ## Memos

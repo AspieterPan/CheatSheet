@@ -1,9 +1,9 @@
 ---
-uid: 202305242228
-aliases: 
-tags: Reading,知识管理模型 
-from: https://sspai.com/post/61459
-priority: 
+Uid: 202305242228
+Aliases: 
+Tags: Reading,知识管理模型 
+From: https://sspai.com/post/61459
+Priority: 
 ---
 # P.A.R.A. 是什么及在 Notion 中的应用 - 少数派
 

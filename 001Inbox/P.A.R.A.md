@@ -1,9 +1,9 @@
 ---
-uid: 202305242228
-aliases: 
-tags: 知识管理模型
-from: 
-priority: 
+Uid: 202305242228
+Aliases: 
+Tags: 知识管理模型
+From: 
+Priority: 
 ---
 # P.A.R.A
 

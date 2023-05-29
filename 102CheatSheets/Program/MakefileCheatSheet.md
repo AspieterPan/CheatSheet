@@ -40,9 +40,9 @@ $(patsubst <pattern>,<sub>,<str>)
 
 ### subst
 
-字符串替换,将 text 中的 from 替换为 to
+字符串替换,将 text 中的 From 替换为 to
 
-`$(subst <from>,<to>,<text>)`
+`$(subst <From>,<to>,<text>)`
 
 ```bash
 #返回值：this is b

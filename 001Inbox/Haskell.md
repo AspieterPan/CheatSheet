@@ -1,8 +1,8 @@
 ---
-uid: 202305242228
-aliases: 
-tags: Program/Language,函数式编程
-from: 
+Uid: 202305242228
+Aliases: 
+Tags: Program/Language,函数式编程
+From: 
 ---
 # Haskell
 

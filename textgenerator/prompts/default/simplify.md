@@ -4,7 +4,7 @@ PromptInfo:
  name: 👼Simplify 
  description: select a content and it will be simplified.
  author: Noureddine
- tags: thinking, writing
+ Tags: thinking, writing
  version: 0.0.1
 ---
 content: 

@@ -1,9 +1,9 @@
 ---
-uid: 202305242228
-aliases: Dataview
-tags: Obsidian
-from: 
-priority: low
+Uid: 202305242228
+Aliases: Dataview
+Tags: Obsidian
+From: 
+Priority: low
 ---
 # Obsidian_Dataview
 

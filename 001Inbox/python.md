@@ -1,6 +1,6 @@
 ---
 Aliases: [ "#Python" ]
-tags: Program/Language 
+Tags: Program/Language 
 ---
 # python
 

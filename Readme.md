@@ -13,12 +13,15 @@
 ---
 - 第一行为标题，用一级 Heading 表示
 - 如果有 MetaData， 则加在一级 Heading 表示的Title之前
-- MetaData 一般为 uid, alias, tags, from, priority  这 5 个
-	- uid: 根据创建时间自动添加的属性
-	- alias: 别名，官方属性，在创建链接时，可以搜索到卡片的alias
-	- tags: 标签，官方属性
-	- from: 当卡片来源于第三方资料时，标注来源
-	- priority: 优先级，与 TODO 联动
+- MetaData 一般为 Uid, Aliases, Tags, From, Priority  这 5 个
+	- Uid: 根据创建时间自动添加的属性
+	- Aliases: 别名，官方属性，在创建链接时，可以搜索到卡片的alias
+	- Tags: 标签，官方属性
+	- From: 当卡片来源于第三方资料时，标注来源
+	- Priority: 优先级，与 Todo 联动
+- 另外有一些其他的 MetaData 可以选择使用
+  - Top: 来自上一级的卡片
+  - X: 相关的同级的卡片
 - 二级 Heading 的下一行跟一个分隔线
 - Heading 与内容之间需要空行
 - 段落内，每一句话（一个句号）的末尾加上一个换行符

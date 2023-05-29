@@ -1,8 +1,8 @@
 ---
-uid: 202305242228
-aliases: 
-tags: Python,cheatsheet
-from: 
+Uid: 202305242228
+Aliases: 
+Tags: Python,cheatsheet
+From: 
 ---
 
 ## brew 指定版本

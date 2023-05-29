@@ -1,8 +1,8 @@
 ---
-uid: 202305242228
-aliases: 
-tags: Python 
-from: 
+Uid: 202305242228
+Aliases: 
+Tags: Python 
+From: 
 ---
 # Python_Markdown
 

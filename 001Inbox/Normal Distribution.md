@@ -1,9 +1,9 @@
 ---
 title: Normal Distribution
-uid: 202304141423
-aliases: 正态分布
-tags: 考研数学一 
-from:
+Uid: 202304141423
+Aliases: 正态分布
+Tags: 考研数学一 
+From:
 ---
 # Normal Distribution
 

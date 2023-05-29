@@ -1,9 +1,9 @@
 ---
 title: partial derivative
-uid: 202301310932
-aliases: [偏导数]
-tags: 考研数学一 
-from: 
+Uid: 202301310932
+Aliases: [偏导数]
+Tags: 考研数学一 
+From: 
 ---
 # partial derivative
 ## 定义

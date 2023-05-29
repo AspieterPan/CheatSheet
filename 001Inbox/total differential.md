@@ -1,9 +1,9 @@
 ---
 title: total differential
-uid: 202301311033
-aliases: 全微分
-tags: 考研数学一 
-from:
+Uid: 202301311033
+Aliases: 全微分
+Tags: 考研数学一 
+From:
 ---
 # total differential
 

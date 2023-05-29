@@ -1,8 +1,8 @@
 ---
-uid: 202305242228
-aliases: 
-tags: Program/Language
-from: 
+Uid: 202305242228
+Aliases: 
+Tags: Program/Language
+From: 
 ---
 # Yaml
 

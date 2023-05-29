@@ -1,9 +1,9 @@
 ---
-uid: 202305242228
-aliases: 
-tags: Obsidian 
-from: 
-priority: 
+Uid: 202305242228
+Aliases: 
+Tags: Obsidian 
+From: 
+Priority: 
 ---
 # Obsidian_Plugin
 

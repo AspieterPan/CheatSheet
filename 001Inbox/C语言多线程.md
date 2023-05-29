@@ -1,12 +1,17 @@
 ---
-uid: 202305242228
-aliases: 
-tags: TODO
-from: 
+Uid: 202305242228
+Aliases: 
+Tags: 
+From: 
+Priority: 
 ---
-# C语言多线程_todo
+# C语言多线程
 
-## [C 语言多线程](http://c.biancheng.net/thread/)
+Top:: 
+
+## Learn
+---
+source:: [C 语言学习网教程](http://c.biancheng.net/thread/)
 
 - [x] 线程是什么
 - [x] 第一个多线程程序

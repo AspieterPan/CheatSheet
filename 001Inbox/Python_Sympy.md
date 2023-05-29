@@ -1,8 +1,8 @@
 ---
-uid: 202305242228
-aliases: sympy,Sympy
-tags: Python 
-from: 
+Uid: 202305242228
+Aliases: sympy,Sympy
+Tags: Python 
+From: 
 ---
 # Python_Sympy
 

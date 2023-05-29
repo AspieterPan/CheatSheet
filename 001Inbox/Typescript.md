@@ -1,8 +1,8 @@
 ---
-uid: 202305242228
-aliases: ts,Ts
-tags: Program/Language 
-from: 
+Uid: 202305242228
+Aliases: ts,Ts
+Tags: Program/Language 
+From: 
 ---
 # Typescript
 

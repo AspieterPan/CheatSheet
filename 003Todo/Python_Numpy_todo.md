@@ -1,6 +1,6 @@
 ---
-tags: TODO,Python
-from: "http://c.biancheng.net/numpy/"
+Tags: TODO,Python
+From: "http://c.biancheng.net/numpy/"
 ---
 # Python_Numpy_todo
 

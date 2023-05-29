@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import os
 
-prop = "tags"
+prop = "Tags"
 name = "Math"
 files = """
 002Diary/2023-05-24.md

@@ -1,8 +1,8 @@
 ---
-uid: 202305242228
-aliases: js,Js
-tags: Program/Language 
-from: 
+Uid: 202305242228
+Aliases: js,Js
+Tags: Program/Language 
+From: 
 ---
 # Javascript
 

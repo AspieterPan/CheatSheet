@@ -1,5 +1,5 @@
 ---
-tags: TODO
+Tags: TODO
 ---
 # Todo汇总
 
@@ -11,12 +11,12 @@ tags: TODO
 
 [[Missing Semester_todo]]
 
-[[C语言多线程_todo]]
+[[C Program Language]]
 
 [[Python实战_todo]]
 
 ```dataview
 task
-from ""
+From ""
 group by file.name
 ```

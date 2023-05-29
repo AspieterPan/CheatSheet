@@ -1,9 +1,9 @@
 ---
-uid: 202305242228
-aliases: Callout
-tags: Obsidian 
-from: https://help.obsidian.md/Editing+and+formatting/Callouts
-priority: 
+Uid: 202305242228
+Aliases: Callout
+Tags: Obsidian 
+From: https://help.obsidian.md/Editing+and+formatting/Callouts
+Priority: 
 ---
 # Obsidian_Callout
 
@@ -55,7 +55,7 @@ Example:
 
 ## Customizations
 ---
-Snippets and plugins can define custom callouts, too, or overwrite the default options. Callout types and icons are defined in CSS, where the color is an `r, g, b` tuple and the icon is the icon ID from any internally supported icon (like `lucide-info`). Alternatively, you can specify an SVG icon as a string.
+Snippets and plugins can define custom callouts, too, or overwrite the default options. Callout types and icons are defined in CSS, where the color is an `r, g, b` tuple and the icon is the icon ID From any internally supported icon (like `lucide-info`). Alternatively, you can specify an SVG icon as a string.
 
 ```CSS
 .callout[data-callout="my-callout-type"] {

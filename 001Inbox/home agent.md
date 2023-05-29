@@ -1,8 +1,8 @@
 ---
 title: 
-uid: 202212041219
-aliases: [HA]
-tags: []
-from: 
+Uid: 202212041219
+Aliases: [HA]
+Tags: []
+From: 
 ---
 # home agent

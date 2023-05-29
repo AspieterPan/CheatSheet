@@ -5,7 +5,7 @@ PromptInfo:
  description: Select a title, an outline will be generated for You.
  required_values: title
  author: Noureddine
- tags: writing
+ Tags: writing
  version: 0.0.1
 ---
 title:
