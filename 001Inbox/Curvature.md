@@ -1,7 +1,7 @@
 ---
 uid: 202305231513
 aliases: 曲率
-tags: Math
+tags: 考研数学一
 from: 
 ---
 # Curvature

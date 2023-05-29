@@ -2,7 +2,7 @@
 title: multivariable function composition derivative
 uid: 202301311147
 aliases: 多元复合求导
-tags: Math
+tags: 考研数学一
 from: 
 ---
 # multivariable function composition derivative

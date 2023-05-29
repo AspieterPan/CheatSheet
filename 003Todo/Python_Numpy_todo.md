@@ -1,13 +1,13 @@
 ---
-tags: todo,python
+tags: TODO,Python
 from: "http://c.biancheng.net/numpy/"
 ---
-# Python Numpy
+# Python_Numpy_todo
 
-> 后续关卡: Pandas, SciPy, Matplotlib
+> 后续关卡: [[Pandas]], [[SciPy]], [[Matplotlib]]
 
-- [ ] NumPy 是什么
-- [ ] NumPy 下载与安装
+- [x] NumPy 是什么
+- [x] NumPy 下载与安装
 - [ ] NumPy ndarray 对象
 - [ ] NumPy 数据类型
 - [ ] NumPy 数组属性

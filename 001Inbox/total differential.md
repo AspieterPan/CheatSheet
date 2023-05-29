@@ -1,10 +1,11 @@
 ---
 title: total differential
 uid: 202301311033
-aliases: []
-tags: []
+aliases: 全微分
+tags: 考研数学一 
 from:
 ---
+# total differential
 
 ## Definition
 

@@ -1,0 +1,4 @@
+---
+Aliases: [ "#Tip" ]
+---
+# Tip

@@ -1,10 +1,10 @@
 ---
 uid: 202305242228
 aliases: 
-tags: python 
+tags: Python 
 from: 
 ---
-# Python-Markdown
+# Python_Markdown
 
 ## QuickStart
 ---
@@ -13,7 +13,7 @@ Python中的Markdown模块是一个用于将Markdown格式的文本转换为HTML
 
 该模块可以通过pip安装：
 
-```
+```bash
 pip install markdown
 ```
 

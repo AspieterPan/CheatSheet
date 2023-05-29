@@ -1,7 +1,7 @@
 ---
 uid: 202301311055
 aliases: 全导数的充分条件
-tags: Math
+tags: 考研数学一
 from: 
 ---
 # Total Derivative's Sufficient Condition

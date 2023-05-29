@@ -1,8 +1,8 @@
 ---
 title: Bivariate Normal Distribution
 uid: 202304141359
-aliases: []
-tags: []
+aliases: 二元正态分布
+tags: 考研数学一 
 from:
 ---
 # Bivariate Normal Distribution

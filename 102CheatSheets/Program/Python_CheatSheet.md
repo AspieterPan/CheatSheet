@@ -1,6 +1,11 @@
-## 环境安装
+---
+uid: 202305242228
+aliases: 
+tags: Python,cheatsheet
+from: 
+---
 
-#### brew 指定版本
+## brew 指定版本
 
 ```bash
 brew link python@3.11
