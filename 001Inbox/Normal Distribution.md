@@ -2,7 +2,7 @@
 title: Normal Distribution
 Uid: 202304141423
 Aliases: 正态分布
-Tags: 考研数学一 
+Tags: 考研数学 
 From:
 ---
 # Normal Distribution

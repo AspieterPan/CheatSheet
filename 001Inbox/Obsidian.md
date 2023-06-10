@@ -1,6 +1,6 @@
 ---
 Uid: 202305242228
-Aliases: 
+Aliases: ["#Obsidian"] 
 Tags: 
 From: 
 ---
@@ -24,4 +24,12 @@ From:
 | `task:`         | Find matches in a [task](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#Task%20lists) on a block-by-block basis.<br><br>Example: `task:call`.                                                       |
 | `task-todo:`    | Find matches in an _uncompleted_ [task](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#Task%20lists) on a block-by-block basis.<br><br>Example: `task-todo:call`.                                   |
 | `task-done:`    | Find matches in a _completed_ [task](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#Task%20lists) on a block-by-block basis.<br><br>Example: `task-done:call`.                                      |
-                                                                                                                         |                 |                                                                                                                                                                                                                              |
+
+## Plugin
+---
+[[Obsidian_Plugin]]
+
+## Resource 
+---
+- Bilibili_[Johnny学](https://space.bilibili.com/432408734)
+	- 非常硬核的 Obsidian 教程

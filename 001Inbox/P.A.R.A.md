@@ -9,4 +9,4 @@ Priority:
 
 ## Introduce
 ---
-![[P.A.R.A. 是什么及在 Notion 中的应用 - 少数派#P.A.R.A 的含义与定义]]
+![[SSPAI_P.A.R.A. 是什么及在 Notion 中的应用#P.A.R.A 的含义与定义]]

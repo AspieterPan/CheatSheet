@@ -6,7 +6,7 @@ From:
 ---
 # LYT
 
-obsidian 用户 [[@Nick Milo]] 创建的笔记方法
+[[obsidian]] 用户 [[@Nick Milo]] 创建的笔记方法
 
 #TODO #Te
 - [x] [第一课](<https://mail.google.com/mail/u/0/#search/From%3A(Nick)/FMfcgzGsmhXqQpjzdhZFxbmBJDwTPChT>) ✅ 2023-05-26

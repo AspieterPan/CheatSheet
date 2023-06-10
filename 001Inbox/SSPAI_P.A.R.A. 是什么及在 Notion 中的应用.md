@@ -5,7 +5,7 @@ Tags: Reading,知识管理模型
 From: https://sspai.com/post/61459
 Priority: 
 ---
-# P.A.R.A. 是什么及在 Notion 中的应用 - 少数派
+# SSPAI_P.A.R.A. 是什么及在 Notion 中的应用
 
 
 > [!summary] 

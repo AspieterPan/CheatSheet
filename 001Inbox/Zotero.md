@@ -20,3 +20,14 @@ X:: [[Mendeley]], [[Endnote]], [[Readcube]]
 ---
 - [ ] 官方QuickStart [source:: https://www.zotero.org/support/quick_start_gUide]
 - [ ] 知乎上的教程：[source:: https://www.zhihu.com/question/20761911/answer/2204621531]
+
+## Collaboration
+---
+- [[Obsidian]]
+- [Bilibili_Johnny学_Zotero与[[Obsidian]]联动第一集](https://www.bilibili.com/video/BV1xM4y137q9/?spm_id_from=333.788.recommend_more_video.3&vd_source=87dfd9b43712abc331544c4820fa4a87)
+	1. Zotero 中导出为 CSL-JSON 或者 Bib-Latex 的形式
+	2. [[Obsidian]] 中添加 Citation 插件
+	3. Citation 的设置中，输入导出的 CSL-JSON 或 Bib-Latex 的文件的路径
+	4. [[Obsidian]] 可以根据 Zotero 的数据，自动创建对应的笔记，并输入相应的元数据
+- [ ] [Bilibili_Johnny学_Zotero与[[Obsidian]]联动第二集](https://www.bilibili.com/video/BV1E64y187er/?spm_id_from=333.999.0.0&vd_source=87dfd9b43712abc331544c4820fa4a87)
+- [ ] [Bilibili_Johnny学_Zotero与[[Obsidian]]联动第三集](https://www.bilibili.com/video/BV1m341127aU/?spm_id_from=333.999.0.0&vd_source=87dfd9b43712abc331544c4820fa4a87)

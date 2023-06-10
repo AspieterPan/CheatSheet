@@ -1,7 +1,7 @@
 ---
 Uid: 202305231513
 Aliases: 曲率
-Tags: 考研数学一
+Tags: 考研数学
 From: 
 ---
 # Curvature

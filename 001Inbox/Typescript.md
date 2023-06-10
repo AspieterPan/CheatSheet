@@ -77,14 +77,20 @@ console.log(rectangle.area());
 ## Document
 ---
 
-1. TypeScript官方文档：[https://www.typescriptlang.org/docs/](https://www.typescriptlang.org/docs/)
-   这是TypeScript官方提供的文档，里面包含了TypeScript的基本语法、类型、类、模块等概念和用法，以及一些高级特性。您可以按照文档的顺序逐步学习。
+1. [TypeScript官方文档](https://www.typescriptlang.org/docs/)
 
-2. TypeScript Handbook中文版：[https://zhongsp.gitbooks.io/typescript-handbook/content/](https://zhongsp.gitbooks.io/typescript-handbook/content/)
-   这是一份中文版的TypeScript手册，内容和官方文档类似，但是更加详细和易于理解。
+   > 这是TypeScript官方提供的文档，里面包含了TypeScript的基本语法、类型、类、模块等概念和用法，以及一些高级特性。您可以按照文档的顺序逐步学习。
 
-3. TypeScript Deep Dive：[https://basarat.gitbook.io/typescript/](https://basarat.gitbook.io/typescript/)
-   这是一份深入理解TypeScript的教程，作者对TypeScript的各种特性进行了详细的解释和示例。
+2. [TypeScript Handbook中文版](https://github.com/zhongsp/TypeScript/blob/dev/README.md)
 
-4. TypeScript Playground：[https://www.typescriptlang.org/play](https://www.typescriptlang.org/play)
-   这是TypeScript官方提供的一个在线编辑器，您可以在这里尝试编写TypeScript代码，并且立即看到运行结果。
+   > 这是一份中文版的TypeScript手册，内容和官方文档类似，但是更加详细和易于理解。
+   > 
+   > 另外，这个手册的 Book 版似乎有问题，直接看仓库的源码就好
+
+3. [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
+
+   > 这是一份深入理解TypeScript的教程，作者对TypeScript的各种特性进行了详细的解释和示例。
+
+4. [TypeScript Playground](https://www.typescriptlang.org/play)
+
+   > 这是TypeScript官方提供的一个在线编辑器，您可以在这里尝试编写TypeScript代码，并且立即看到运行结果。
