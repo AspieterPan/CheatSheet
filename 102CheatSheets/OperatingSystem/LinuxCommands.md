@@ -64,7 +64,7 @@ rg --stats PATTERN
 sed 's/REGEX/SUBSTITUTION/'
 ```
 
-> **Regular expressions**
+> **[[正则表达式|Regular Expression]]**
 >
 > - . means “any single character” except newline
 > - \* zero or more of the preceding match

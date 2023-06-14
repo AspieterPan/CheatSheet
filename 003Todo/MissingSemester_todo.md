@@ -4,7 +4,7 @@ Aliases:
 Tags: TODO
 From: 
 ---
-# Missing Semester_todo
+# MissingSemester_todo
 
 ## [Missing Semester](https://missing.csail.mit.edu/)
 

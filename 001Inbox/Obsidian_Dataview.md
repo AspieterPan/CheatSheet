@@ -3,7 +3,7 @@ Uid: 202305242228
 Aliases: Dataview
 Tags: Obsidian
 From: 
-Priority: low
+Priority: 4
 ---
 # Obsidian_Dataview
 

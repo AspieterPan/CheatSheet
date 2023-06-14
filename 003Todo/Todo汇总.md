@@ -5,11 +5,11 @@ Tags: TODO
 
 [[408_Todo]]
 
-[[考研数学一]]
+[[考研数学]]
 
 [[Linux_Todo]]
 
-[[Missing Semester_todo]]
+[[MissingSemester_todo]]
 
 [[C Program Language]]
 
