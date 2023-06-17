@@ -2,7 +2,7 @@
 title: partial derivative
 Uid: 202301310932
 Aliases: [偏导数]
-Tags: 考研数学 
+Tags: PgMath 
 From: 
 ---
 # partial derivative

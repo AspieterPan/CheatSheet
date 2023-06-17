@@ -24,10 +24,15 @@ Priority:
 ## Quick
 ---
 - [ ] Advanced URI
-	- 通过 Obsidian 的链接来执行一些快速指令
+	- 通过 [[Obsidian]] 的链接来执行一些快速指令
 
 ## Memory
 ---
 - [ ] Spaced Repetition
-	- Obsidian 中原生的间隔复习
-	- p.s 但是会影响 Obsidian 中的笔记，会倾向于使用 Anki 来进行复习
+	- [[Obsidian]] 中原生的间隔复习
+	- p.s 但是会影响 [[Obsidian]] 中的笔记，会倾向于使用 Anki 来进行复习
+
+## Web
+---
+- [ ] [Surfing](https://github.com//PKM-er/Obsidian-Surfing)
+	- 在 [[Obsidian]] 中打开网页

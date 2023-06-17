@@ -2,7 +2,7 @@
 title: total differential
 Uid: 202301311033
 Aliases: 全微分
-Tags: 考研数学 
+Tags: PgMath 
 From:
 ---
 # total differential

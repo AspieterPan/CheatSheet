@@ -33,3 +33,5 @@ From:
 ---
 - Bilibili_[Johnny学](https://space.bilibili.com/432408734)
 	- 非常硬核的 Obsidian 教程
+ - [PKMER](https://pkmer.cn/)
+	 - 超强的 Obsidian 学习社区，但不只 Obsidian
