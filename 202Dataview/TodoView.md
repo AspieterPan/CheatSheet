@@ -1,6 +1,8 @@
-```dataview
-task
-From "008Todo"
-where !contains(file.Tags, "python")
-group by file.name
-```
+> [!info]- todo
+> ```dataview
+> task
+> From ""
+> where priority = 4 
+> group by file.name
+> ```
+

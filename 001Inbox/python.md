@@ -74,3 +74,7 @@ print(x)
 ```
 
 以上是Python快速入门的基本步骤。
+
+## Python爬虫
+---
+[[WebSpider]]

@@ -5,4 +5,4 @@ Aliases: []
 Tags: []
 From: 
 ---
-if function $z = f(x,y)$ is differentiable at point $(x,y)$ , then the [[partial derivative]]  $\frac{\partial z}{\partial x}, \frac{\partial z}{\partial y}$ at point $(x,y)$  must exist, and $$dz = \frac{\partial z}{\partial x}dx + \frac{\partial z}{\partial y}dy$$
+if function $z = f(x,y)$ is differentiable at point $(x,y)$ , then the [[Partial Derivative]]  $\frac{\partial z}{\partial x}, \frac{\partial z}{\partial y}$ at point $(x,y)$  must exist, and $$dz = \frac{\partial z}{\partial x}dx + \frac{\partial z}{\partial y}dy$$

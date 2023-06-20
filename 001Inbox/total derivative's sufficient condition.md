@@ -4,7 +4,7 @@ Aliases: 全导数的充分条件
 Tags: PgMath
 From: 
 ---
-# Total Derivative's Sufficient Condition
+# total derivative's sufficient condition
 
 
 ## Define

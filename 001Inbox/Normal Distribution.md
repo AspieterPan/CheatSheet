@@ -4,6 +4,9 @@ Uid: 202304141423
 Aliases: 正态分布
 Tags: PgMath 
 From:
+sr-due: 2023-06-23
+sr-interval: 3
+sr-ease: 250
 ---
 # Normal Distribution
 

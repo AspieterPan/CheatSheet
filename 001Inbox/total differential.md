@@ -1,9 +1,11 @@
 ---
-title: total differential
 Uid: 202301311033
 Aliases: 全微分
 Tags: PgMath 
 From:
+sr-due: 2023-06-23
+sr-interval: 4
+sr-ease: 270
 ---
 # total differential
 

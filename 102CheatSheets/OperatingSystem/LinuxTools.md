@@ -10,5 +10,5 @@ sudo apt install gnome-sushi
 ---
 - [ ] [[Joshuto]]
 	- 用 rust 重写的 ranger (虽然 ranger 我也没用过)
-- [ ] nnn
+- nnn
 	- 比 ranger 简单，但是功能也会少一些
