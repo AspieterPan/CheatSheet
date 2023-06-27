@@ -2,9 +2,8 @@
 Uid: 202301101046
 Aliases: 波特
 Tags: Computer/Newwork
-From: 
-sr-due: 2023-06-23
-sr-interval: 4
+sr-due: 2023-07-09
+sr-interval: 14
 sr-ease: 270
 ---
 # Baud

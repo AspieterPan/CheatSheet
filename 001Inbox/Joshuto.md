@@ -40,7 +40,7 @@ sudo cargo install --path=. --force --root=/usr/local
 > [!error]
 > 修改 config 文件后，并没有生效 
 
-#TODO 
+#Todo 
 
 ## Resource
 ---

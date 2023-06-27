@@ -1,11 +1,9 @@
 ---
-title: Normal Distribution
 Uid: 202304141423
 Aliases: 正态分布
-Tags: PgMath 
-From:
-sr-due: 2023-06-23
-sr-interval: 3
+Tags: PgMath/Probability 
+sr-due: 2023-07-05
+sr-interval: 10
 sr-ease: 250
 ---
 # Normal Distribution

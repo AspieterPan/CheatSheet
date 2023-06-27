@@ -6,6 +6,7 @@ From: https://help.obsidian.md/Editing+and+formatting/Callouts
 Priority: 
 ---
 # Obsidian_Callout
+Top:: [[Obsidian]]
 
 ## Introduce 
 ---

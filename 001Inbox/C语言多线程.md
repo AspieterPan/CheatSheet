@@ -27,4 +27,4 @@ source:: [C 语言学习网教程](http://c.biancheng.net/thread/)
 - [ ] 如何避免线程发生死锁？
 - [ ] 线程属性有哪些，如何自定义线程属性？
 - [ ] 使用 C++11 进行多线程编程
-- [ ] 将 Linux 多线程程序移植到 Windows
+- [ ] 将 [[Linux]] 多线程程序移植到 Windows

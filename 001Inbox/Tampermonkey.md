@@ -1,9 +1,8 @@
 ---
 Uid: 202305242228
 Aliases: 油猴
-Tags: 
-From: 
-Priority: 
+Tags: Tool
+Priority: 1
 ---
 # Tampermonkey
 

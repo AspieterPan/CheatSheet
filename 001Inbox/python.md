@@ -1,10 +1,12 @@
 ---
-Aliases: [ "#Python" ]
-Tags: Program/Language 
+Aliases: [ "#Program/Language/Python" ]
+Tags: Program/Language
 ---
-# python
+# Python
 
-python 速查表: [[Python_CheatSheet]]
+## CheatSheet 
+---
+ ![[Python_CheatSheet]]
 
 ## QuickStart
 ---

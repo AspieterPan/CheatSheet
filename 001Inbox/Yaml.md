@@ -2,10 +2,11 @@
 Uid: 202305242228
 Aliases: 
 Tags: Program/Language
-From: 
 ---
 # Yaml
 
+## Introduce 
+---
 YAML（YAML Ain't Markup Language）是一种人类可读的数据序列化格式，它的设计目标是使配置文件和数据序列化变得简单明了。它使用缩进和换行符来表示数据的层级关系，而不是使用特殊的标记或符号。
 
 下面是一些关于YAML语法的重要要点：

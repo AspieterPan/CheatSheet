@@ -1,6 +1,7 @@
 ---
 Author: [[HEXIN-GPT]]
 Full Title: 学习了4个月ChatGPT，最后想办法把Chatgpt融入了工作和生活，做了个笔记。
+Tags: Reading 
 Category: Readwise_articles
 URL: https://mp.weixin.qq.com/s/KSKsRFyNDNSln0voDyq2Nw
 ---

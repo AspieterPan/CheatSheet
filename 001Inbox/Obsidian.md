@@ -2,12 +2,21 @@
 Uid: 202305242228
 Aliases: ["#Obsidian"] 
 Tags: 
-From: 
 ---
 # Obsidian
 
 ## Feature
 ---
+### Callout 
+
+![[Obsidian_Callout]]
+
+### Metadata
+
+Obsidian 中可以在笔记最前面用 [[Yaml]] 语法加上 Metadata
+
+另外也可以在笔记中间用 [Property:: Anything]来添加 Metadata （但是我不太确定后面这种语法是 Obsidian 原生的还是 Dataview 插件加上去的，不过按照现在大部分插件都离不开 Dataview 的情况，都没差啦）
+
 ### Search
 
 | Search operator | Description                                                                                                                                                                                                                  |
@@ -27,7 +36,7 @@ From:
 
 ## Plugin
 ---
-[[Obsidian_Plugin]]
+![[Obsidian_Plugin#Obsidian_Plugin]]
 
 ## Resource 
 ---

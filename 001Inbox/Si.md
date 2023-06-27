@@ -1,5 +1,5 @@
 ---
-Aliases: [ "#Si" ]
+Aliases: [ "#JungPsy/Si" ]
 ---
 # Si
 

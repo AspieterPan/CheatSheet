@@ -1,5 +1,5 @@
 ---
-Aliases: [ "#Ti" ]
+Aliases: [ "#JungPsy/Ti" ]
 ---
 # Ti
 

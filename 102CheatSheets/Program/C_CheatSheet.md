@@ -11,7 +11,7 @@
 
 asm
 - 参考
-  - [linux C 中内联汇编的语法格式及使用方法](https://www.cnblogs.com/sky-heaven/p/7561625.html)
+  - [[[linux]] C 中内联汇编的语法格式及使用方法](https://www.cnblogs.com/sky-heaven/p/7561625.html)
 
 ### Usage
 

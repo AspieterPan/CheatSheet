@@ -29,6 +29,9 @@ Priority:
 	- 通过 [[Obsidian]] 的链接来执行一些快速指令
  - [ ] [[Obsidian_Templater]]
 	 - 通过插入模板来执行一些 [[Javascript]] 代码
+ - [ ] [[Obsidian_QuickAdd]]
+	 - 可以创建一些快捷指令
+	 - 可以与 [[Obsidian_Templater]]  联动，Cool~
 
 ## Memory
 ---
@@ -44,5 +47,5 @@ Priority:
 
 ## Heading
 ---
-- [ ] Zoom
-	- 像 Remnote 那样 Zoom 到一个 bullet 里面。 Cool~
+- Zoom
+	- 像 [[Remnote]] 那样 Zoom 到一个 bullet 里面。 Cool~

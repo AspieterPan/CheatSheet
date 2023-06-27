@@ -1,16 +1,25 @@
 ---
-title: 
 Uid: 202212040045
-Aliases: []
-Tags: []
-From: https://www.bilibili.com/video/BV19E411D78Q/?p=58
+Aliases: 移动IP
+Tags: Computer/Newwork 
+Via: https://www.bilibili.com/video/BV19E411D78Q/?p=58
+sr-due: 2023-06-30
+sr-interval: 3
+sr-ease: 245
 ---
+# Mobile Ip
 
-[relative terms](https://www.bilibili.com/video/BV19E411D78Q/?p=58#t=208.46494)
-- [[home agent]] 
-	- stores information about mobile nodes whose permanent home address is in the home agent's network. The [[home agent|HA]] acts as a router on a [[mobile host]]'s (MH) home network which tunnels datagrams for delivery to the [[mobile host|MH]] when it is away From home, maintains a location directory (LD) for the [[mobile host|MH]].
-- [[foreign agent]]
-	- stores information about mobile nodes visiting its network. Foreign agents also advertise care-of addresses, which are used by [[Mobile Ip]]. if there  is no foreign agent in the host network, the mobile device has to take care of getting an address and advertising that address by its own means. The Fa acts as a router on a [[Mobile Ip|MH]]'s visited network which provides routing sevices to the [[Mobile Ip|MH]] while registered. FA tunnels and delivers datagrams to the [[Mobile Ip|MH]] that were tunneled by the [[Mobile Ip|MH]]'s [[home agent|HA]]
+## Introduce
+---
+移动设备由于”居无定所“，所以使用的移动IP跟普通的IP有一定区别 
 
+1. 首先，移动IP有一个固定的 [[Home Agent]] （就像人的家一样）
+2. 移动IP每到一个地方，都会在新地方的 [[Foreign Agent]] 上登记一下，并把当前地址告诉给 [[Home Agent]] （就像人在外面旅游，会在旅馆里登记，并且还会把当前住的地址告诉给家里人）
+3. 当其他主机想找该移动IP的时候，首先会问它的 [[Home Agent]]，得到移动IP当前的”住所“，然后去 [[Foreign Agent]] 把消息实际传递给 移动IP
 
-[03:28](https://www.bilibili.com/video/BV19E411D78Q/?p=58#t=208.46494)
+## Relation
+---
+- [[Home Agent]] 
+	- stores information about mobile nodes whose permanent home address is in the home agent's network. The [[Home Agent|HA]] acts as a router on a [[Mobile Host]]'s (MH) home network which tunnels datagrams for delivery to the [[Mobile Host|MH]] when it is away From home, maintains a location directory (LD) for the [[Mobile Host|MH]].
+- [[Foreign Agent]]
+	- stores information about mobile nodes visiting its network. Foreign agents also advertise care-of addresses, which are used by [[Mobile Ip]]. if there  is no foreign agent in the host network, the mobile device has to take care of getting an address and advertising that address by its own means. The Fa acts as a router on a [[Mobile Ip|MH]]'s visited network which provides routing services to the [[Mobile Ip|MH]] while registered. FA tunnels and delivers datagrams to the [[Mobile Ip|MH]] that were tunneled by the [[Mobile Ip|MH]]'s [[home agent|HA]]

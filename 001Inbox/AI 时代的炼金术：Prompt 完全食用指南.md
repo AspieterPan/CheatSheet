@@ -5,7 +5,7 @@ Tags: Reading,Prompt,AI
 From: https://sspai.com/post/79923
 ---
 # AI 时代的炼金术：Prompt 完全食用指南
-#Ne #Si 
+#JungPsy/Ne #JungPsy/Si 
 
 ## 编写咒语的原则
 --- 

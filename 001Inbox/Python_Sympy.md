@@ -1,7 +1,7 @@
 ---
 Uid: 202305242228
 Aliases: sympy,Sympy
-Tags: Python 
+Tags: Program/Language/Python 
 From: 
 ---
 # Python_Sympy

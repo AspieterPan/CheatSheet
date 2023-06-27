@@ -1,13 +1,19 @@
+---
+Uid: 202305242228
+Aliases: 
+Tags: Cheatsheet 
+---
 # LaTeXCheatSheet
+Top:: [[LaTeX]]
 
 ## 希腊字母
-
+---
 $$\alpha, \beta, \gamma, \delta, \epsilon, \varepsilon, \zeta, \eta, \theta, \vartheta, \iota, \kappa, \lambda, \mu, \nu, \xi, o, \pi, \varpi, \rho, \varrho, \sigma, \varsigma, \tau, \upsilon, \phi, \varphi, \chi, \psi, \omega$$
 
 $$\Gamma, \Delta, \Theta, \Lambda, \Xi, \Pi, \Sigma, \Upsilon, \Phi, \Psi, \Omega$$
 
 ## 段落
-
+---
 $$
 \begin{align}
 This is first &line \\
@@ -23,7 +29,7 @@ $$
 4. 每一行后面自动加上tag（如果不想要tag，使用'align*')
 
 ## Matrix
-
+---
 $$
 \begin{bmatrix}
     a & b \\

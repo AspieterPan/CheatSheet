@@ -1,4 +1,4 @@
 ---
-Aliases: [ "#Te" ]
+Aliases: [ "#JungPsy/Te" ]
 ---
 # Te

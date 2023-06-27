@@ -1,12 +1,10 @@
 ---
 Uid: 202305242228
 Aliases: 
-Tags: 
-From: 
-Priority: 
+Tags: Program/Language/Cpp
 ---
 # C++\_STL
-up:: [[C++]]
+Top:: [[C++]]
 
 ## Vector
 ---

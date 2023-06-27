@@ -1,15 +1,18 @@
 ---
 Uid: 202305242228
 Aliases: 
-Tags: 
-From: 
-Priority: 
+Tags: Obsidian 
 ---
 # Obsidian_Templater
+Top:: [[Obsidian]]
 
 ## Introduce
 ---
 Obsidian 中的 Templater 插件是一个强大的自动化工具，它允许用户使用模板来生成和自定义文档。用户可以创建自己的模板，包括文本、标签和日期等，然后使用快捷命令将其插入到笔记中。Templater 还支持动态参数，可以根据需要插入不同的数值。这个插件提供了一种高效的方式来创建重复性文档和标准化笔记，提高工作效率。
+
+> [!tldr]
+> 还是要先学了 [[Javascript]] 再来用这个插件。光看插件本身感觉现在还不需要
+
 
 ## Tutorial
 ---

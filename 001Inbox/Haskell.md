@@ -1,15 +1,14 @@
 ---
 Uid: 202305242228
 Aliases: 
-Tags: Program/Language,函数式编程
-From: 
+Tags: Program/Language
 ---
 # Haskell
 
 ## QuickStart 
 ---
 
-Haskell是一种强类型、纯函数式编程语言。它被设计为一种高度抽象的语言，能够帮助程序员更好地理解和表达算法和计算模型。
+Haskell是一种强类型、纯 [[函数式编程]] 语言。它被设计为一种高度抽象的语言，能够帮助程序员更好地理解和表达算法和计算模型。
 
 本文将介绍 Haskell 的基本语法和特性，帮助初学者快速入门。
 

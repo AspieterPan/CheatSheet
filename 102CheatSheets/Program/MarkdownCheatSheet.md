@@ -1,7 +1,7 @@
 ---
 Uid: 202305242228
 Aliases: 
-Tags: CheatSheet
+Tags: Cheatsheet
 From: 
 ---
 # Markdown_CheatSheet

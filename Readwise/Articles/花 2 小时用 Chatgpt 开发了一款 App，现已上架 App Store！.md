@@ -1,6 +1,7 @@
 ---
 Author: [[okjike.com]]
 Full Title: 花 2 小时用 Chatgpt 开发了一款 App，现已上架 App Store！
+Tags: Reading
 Category: Readwise_articles
 URL: https://m.okjike.com/originalPosts/644d2826b99c001fe8e5d33c
 ---

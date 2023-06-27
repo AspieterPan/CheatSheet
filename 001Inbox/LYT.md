@@ -8,7 +8,7 @@ From:
 
 [[obsidian]] 用户 [[@Nick Milo]] 创建的笔记方法
 
-#TODO #Te
+#Todo #JungPsy/Te
 - [x] [第一课](<https://mail.google.com/mail/u/0/#search/From%3A(Nick)/FMfcgzGsmhXqQpjzdhZFxbmBJDwTPChT>) ✅ 2023-05-26
 - [x] [第二课](https://www.linkingyourthinking.com/lyt-kit-course/lesson-2-why-make-notes) ✅ 2023-05-26
 - [ ] [第三课](https://www.linkingyourthinking.com/lyt-kit-course/lesson-3-why-use-maps-of-content)
