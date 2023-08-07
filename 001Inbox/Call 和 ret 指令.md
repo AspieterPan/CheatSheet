@@ -1,0 +1,19 @@
+---
+Aliases: 
+Tags: Computer/Compose 
+DateCreated: 2023-08-02T23:25
+DateModified: 2023-08-02T23:36
+---
+# Call 和 ret 指令
+Top:: [[Computer Compose]] - 第四章 - 指令系统 - 函数调用的机器级表示 - 4.3.6.1
+
+函数的栈帧 (Stack Frame): 保存函数大括号内定义的局部变量、保存函数调用相关的信息
+
+函數调用指令：call <函数名>
+函数返回指令：ret
+
+- call 指令的作用:
+	1. 将 IP 旧值压栈保存 (保存在函数的栈帧顶部)
+	2. 设置 IP 新值,无条件转移至被调用函数的第一条指令
+- ret 指令的作用:
+	- 从函数的栈帧顶部找到 IP 旧值,将其出栈并恢复 IP 寄存器

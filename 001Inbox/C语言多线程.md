@@ -11,7 +11,7 @@ Top:: [[C Program Language]]
 
 ## Learn
 ---
-source:: [C 语言学习网教程](http://c.biancheng.net/thread/)
+Source:: [C 语言学习网教程](http://c.biancheng.net/thread/)
 
 - [x] 线程是什么
 - [x] 第一个多线程程序

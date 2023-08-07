@@ -1,5 +1,5 @@
 ---
-Aliases: [ "#PgMath/Probability","概率论" ]
+Aliases: [ "#Math/Probability","概率论" ]
 ---
 # PgMath Probability
 
@@ -13,4 +13,4 @@ Aliases: [ "#PgMath/Probability","概率论" ]
 - [x] 张宇概率强化_第 6 章
 - [x] [[张宇概率强化_第 7 章_大数定理与中心极限定理]]
 - [x] 张宇概率强化_第 8 章
-- [x] [[张宇概率强化_第 9 章_参数估计与假设检验]]
+- [x] [[张宇概率强化 _ 第 9 章 _ 参数估计与假设检验]]

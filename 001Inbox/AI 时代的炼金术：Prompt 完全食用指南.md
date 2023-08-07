@@ -1,15 +1,15 @@
 ---
-Uid: 202305242228
 Aliases: 
 Tags: Reading,Prompt,AI
 From: https://sspai.com/post/79923
+DateCreated: 2023-05-25T21:39
+DateModified: 2023-07-10T10:46
 ---
 # AI 时代的炼金术：Prompt 完全食用指南
-#JungPsy/Ne #JungPsy/Si 
+#JungPsy/Ne #JungPsy/Si
 
 ## 编写咒语的原则
---- 
-
+---
 在具体实践时，炼金术士们应该从**输入** 、**思考** 、**输出**三个思考咒语的编写，在每个维度都紧扣「明确且具体」的要求。
 
 ### 输入维度
@@ -30,7 +30,6 @@ From: https://sspai.com/post/79923
 
 ## 良好咒语的格式
 ---
-
 根据编写咒语的原则，炼金术士们总结了一套 [[ChatGPT_Prompt|prompt]] 的基本格式：
 
 - **指令**：要求模型对文本的处理动作
@@ -41,7 +40,6 @@ From: https://sspai.com/post/79923
 
 ## 魔法时刻
 ---
-
 炼金术是一种魔法，而魔法总有难以解释之处。以下是炼金术士们在经验中总结的魔法诀窍，除了遵循正统的咒语编写原则和格式外，应用这些魔法诀窍也能在实践中获得更好的咒术效果。
 
 - 给模型起一个名字

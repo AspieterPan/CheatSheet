@@ -1,10 +1,10 @@
 ---
 Uid: 202212041228
-Aliases: MH
+Aliases: ["MH","移动主机"]
 Tags: Computer/Newwork 
-sr-due: 2023-06-29
-sr-interval: 2
-sr-ease: 230
+sr-due: 2023-08-21
+sr-interval: 42
+sr-ease: 250
 ---
 # Mobile Host
 

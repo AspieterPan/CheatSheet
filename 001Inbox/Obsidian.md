@@ -1,7 +1,8 @@
 ---
-Uid: 202305242228
 Aliases: ["#Obsidian"] 
 Tags: 
+DateCreated: 2023-05-27T01:23
+DateModified: 2023-06-28T23:25
 ---
 # Obsidian
 
@@ -9,13 +10,13 @@ Tags:
 ---
 ### Callout 
 
-![[Obsidian_Callout]]
+[[Obsidian_Callout]]
 
 ### Metadata
 
 Obsidian 中可以在笔记最前面用 [[Yaml]] 语法加上 Metadata
 
-另外也可以在笔记中间用 [Property:: Anything]来添加 Metadata （但是我不太确定后面这种语法是 Obsidian 原生的还是 Dataview 插件加上去的，不过按照现在大部分插件都离不开 Dataview 的情况，都没差啦）
+另外也可以在笔记中间用 [Property:: Anything] 来添加 Metadata （但是我不太确定后面这种语法是 Obsidian 原生的还是 Dataview 插件加上去的，不过按照现在大部分插件都离不开 Dataview 的情况，都没差啦）
 
 ### Search
 
@@ -34,9 +35,13 @@ Obsidian 中可以在笔记最前面用 [[Yaml]] 语法加上 Metadata
 | `task-todo:`    | Find matches in an _uncompleted_ [task](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#Task%20lists) on a block-by-block basis.<br><br>Example: `task-todo:call`.                                   |
 | `task-done:`    | Find matches in a _completed_ [task](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#Task%20lists) on a block-by-block basis.<br><br>Example: `task-done:call`.                                      |
 
-## Plugin
+## Plugins
 ---
-![[Obsidian_Plugin#Obsidian_Plugin]]
+[[Obsidian_Plugin]]
+
+> [!note]  Obsidian 插件开发者文档
+> 要自己开发插件的话，可以看看这个 Obsidian 官方的 [开发者文档](https://docs.obsidian.md/Home)  
+> 但是需要先了解 [[Javascript]] 
 
 ## Resource 
 ---

@@ -2,7 +2,7 @@
 title: Bivariate Normal Distribution
 Uid: 202304141359
 Aliases: 二元正态分布
-Tags: PgMath 
+Tags: Math 
 From:
 ---
 # Bivariate Normal Distribution

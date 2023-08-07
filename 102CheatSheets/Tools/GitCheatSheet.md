@@ -18,5 +18,5 @@ git config --global -l
 
 ## Git 清理
 ---
-source:: https://juejin.cn/post/7024922528514572302
+Source:: https://juejin.cn/post/7024922528514572302
 - [ ] 使用 [BFG](https://rtyley.github.io/bfg-repo-cleaner/) 工具

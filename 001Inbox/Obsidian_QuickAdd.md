@@ -7,7 +7,7 @@ Tags:
 
 ## Tutorial 
 ---
-source:: https://quickadd.obsidian.guide/docs/
+Source:: https://quickadd.obsidian.guide/docs/
 - Getting Started
 - Manual Installation
 - Choices

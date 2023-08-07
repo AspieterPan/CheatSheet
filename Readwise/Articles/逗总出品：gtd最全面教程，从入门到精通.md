@@ -38,3 +38,11 @@ URL: https://zhuanlan.zhihu.com/p/42694082
   因人而异，但说实话、GTD确实起步很繁琐、养成收集、下一步行动和关注结果三个习惯、坚持收集、整理、组织、回顾、执行五个流程、一般人很难做到，简直不亚于减肥，习得成本很高，更不要说结合omnifocus这样变态的软件啦！！！！！ ([View Highlight](https://read.readwise.io/read/01h37q52346e6myzz356p6fxav))
 - GTD适合于杂事特别多，同时希望在纷繁事务保持专注的人。 
   毕竟人的精力是有限的，而频繁地切换任务会极大地消耗精力。根据我个人的体会，以前在大学里事情很单纯，坚持每天学习10小时不算太难，但是工作以后，即使有时间，也很难集中精力学习。GTD的本质目的就是更科学地分配精力。 ([View Highlight](https://read.readwise.io/read/01h37q6q18z7f53nc3gy66mvzz))
+## New highlights added July 21, 2023 at 3:11 PM
+---
+- ![](https://pic4.zhimg.com/80/v2-062ceb2a3e618124017116454a79b1fb_1440w.webp) ([View Highlight](https://read.readwise.io/read/01h5shx4d3zgfbg7x68v9azct2))
+
+## New highlights added July 24, 2023 at 1:12 PM
+---
+- ![](https://pic4.zhimg.com/v2-062ceb2a3e618124017116454a79b1fb_r.jpg) ([View Highlight](https://read.readwise.io/read/01h634fp689y2t3esj3kbc9ddh))
+

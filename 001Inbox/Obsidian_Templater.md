@@ -16,7 +16,7 @@ Obsidian 中的 Templater 插件是一个强大的自动化工具，它允许用
 
 ## Tutorial
 ---
-source:: https://silentvoid13.github.io/Templater/
+Source:: https://silentvoid13.github.io/Templater/
 1. Introduction
 	- 1.1. Installation
 	- 1.2. Terminology

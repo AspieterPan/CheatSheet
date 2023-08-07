@@ -1,7 +1,7 @@
 ---
 Uid: 202301311055
 Aliases: 全导数的充分条件
-Tags: PgMath
+Tags: Math
 From: 
 ---
 # total derivative's sufficient condition

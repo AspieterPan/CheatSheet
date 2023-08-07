@@ -1,10 +1,10 @@
 ---
 Uid: 202304141423
 Aliases: 正态分布
-Tags: PgMath/Probability 
-sr-due: 2023-07-05
-sr-interval: 10
-sr-ease: 250
+Tags: Math/Probability 
+sr-due: 2023-08-31
+sr-interval: 52
+sr-ease: 270
 ---
 # Normal Distribution
 

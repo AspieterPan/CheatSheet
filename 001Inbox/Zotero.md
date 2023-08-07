@@ -18,8 +18,8 @@ X:: [[Mendeley]], [[Endnote]], [[Readcube]]
 
 ## Tutorial  
 ---
-- [ ] 官方QuickStart [source:: https://www.zotero.org/support/quick_start_gUide]
-- [ ] 知乎上的教程：[source:: https://www.zhihu.com/question/20761911/answer/2204621531]
+- [ ] 官方QuickStart [Source:: https://www.zotero.org/support/quick_start_gUide]
+- [ ] 知乎上的教程：[Source:: https://www.zhihu.com/question/20761911/answer/2204621531]
 
 ## Collaboration
 ---

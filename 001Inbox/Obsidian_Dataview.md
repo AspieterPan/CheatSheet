@@ -1,9 +1,10 @@
 ---
-Uid: 202305242228
 Aliases: Dataview
 Tags: Obsidian
-From: 
+Via: 
 Priority: 4
+DateModified: 2023-06-28T08:53
+DateCreated: 2023-05-27T00:48
 ---
 # Obsidian_Dataview
 
@@ -13,7 +14,7 @@ Obsidian_Dataview 插件是 [[Obsidian]] 笔记应用程序的一个插件，它
 
 ## Content
 ---
-source:: https://blacksmithgu.github.io/obsidian-dataview/
+Source:: https://blacksmithgu.github.io/obsidian-dataview/
 <!--SR:!2023-06-22,3,250-->
 - [x] Overview
 - [ ] [[Obsidian_Dataview#Metadata|Metadata]]
@@ -44,7 +45,7 @@ source:: https://blacksmithgu.github.io/obsidian-dataview/
 - String：默认
 - Number: 纯数字，可以有小数点
 - Boolean: true, false
-- Date: 满足[ISO标准格式](https://en.wikipedia.org/wiki/ISO_8601), Date 格式的数据可以按以下方式提取
+- Date: 满足 [ISO标准格式](https://en.wikipedia.org/wiki/ISO_8601), Date 格式的数据可以按以下方式提取
 	- field.year
 	- field.month
 	- field.weekyear
@@ -55,7 +56,7 @@ source:: https://blacksmithgu.github.io/obsidian-dataview/
 	- field.minute
 	- field.second
 	- field.millisecond
- 
+
 > CodeExample: gives you back all birthdays happening this month.
 
 ```obsidian_dataview
