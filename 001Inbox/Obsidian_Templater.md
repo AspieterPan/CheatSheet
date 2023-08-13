@@ -1,7 +1,8 @@
 ---
-Uid: 202305242228
 Aliases: 
 Tags: Obsidian 
+DateCreated: 2023-06-19T15:56
+DateModified: 2023-08-09T17:22
 ---
 # Obsidian_Templater
 Top:: [[Obsidian]]
@@ -13,7 +14,6 @@ Obsidian 中的 Templater 插件是一个强大的自动化工具，它允许用
 > [!tldr]
 > 还是要先学了 [[Javascript]] 再来用这个插件。光看插件本身感觉现在还不需要
 
-
 ## Tutorial
 ---
 Source:: https://silentvoid13.github.io/Templater/
@@ -21,7 +21,7 @@ Source:: https://silentvoid13.github.io/Templater/
 	- 1.1. Installation
 	- 1.2. Terminology
 	- 1.3. Syntax
-		- [ ] `tp.<my_function>(arg1_name: type, arg2_name?: type, arg3_name: type = <default_value>, arg4_name: type1|type2, ...)`
+		- [ ] `tp.<my_function>(arg1_name: type, arg2_name?: type, arg3_name: type = <default_value>, arg4_name: type1|type2, …)`
 			- [ ] If an argument is optional, it will be appended with a question mark ?, e.g. arg2_name?: type
 			- [ ] If an argument has a default value, it will be specified using an equal sign =, e.g. arg3_name: type = <default_value>.
 			- [ ] If an argument can have different types, it will be specified using a pipe |, e.g. arg4_name: type1|type2
@@ -32,7 +32,7 @@ Source:: https://silentvoid13.github.io/Templater/
 		- **tp.config.active_file**
 			- The active file (if existing) when launching Templater.
 		- **tp.config.run_mode**
-			- The RunMode, representing the way Templater was launched (Create new from template, Append to active file, ...)
+			- The RunMode, representing the way Templater was launched (Create new from template, Append to active file, …)
 		- **tp.config.target_file**
 			- The TFile object representing the target file where the template will be inserted.
 		- **tp.file.template_file**
@@ -70,7 +70,7 @@ Source:: https://silentvoid13.github.io/Templater/
 		- **tp.file.rename**(new_title: string)
 		- **tp.file.selection**()
 		- **tp.file.tags**
-		- **tp.file.title**[[ttt]]
+		- **tp.file.title**
 	- 2.4. tp.frontmatter
 		- **tp.frontmatter.<frontmatter_variable_name>**
 	- 2.5. tp.obsidian
@@ -93,14 +93,13 @@ Source:: https://silentvoid13.github.io/Templater/
 		- 同样使用 `tp.user.<command name>` 来进行调用
 4. Commands
 	- 4.1. Dynamic Commands
-		- 使用 `<%+ ... %>` 来创建一个动态命令
+		- 使用 `<%+ … %>` 来创建一个动态命令
 		- 动态命令只有在当前笔记进入预览的时候才会生效
 	- 4.2. Execution Commands
-		- 使用 `<%* ... %>` 来创建一个 js 命令
+		- 使用 `<%* … %>` 来创建一个 js 命令
 		- 可以使用 await 做一些同步
 		- 通过在 `tR` 对象中增加字符串来进行输出
 	- 4.3. Whitespace Control
 
-> [!question] 如何用Templater来创建 Dairy?
-> 
-
+> [!question] 如何用 Templater 来创建 Dairy?
+>

@@ -13,4 +13,4 @@ DateModified: 2023-07-10T15:14
 
 ![[PgMath Calculus#强化 (5 月 -6 月)]]
 - [ ] ![[PgMath Linear]]
-- [x] ![[PgMath Probability#强化]]
+- [x] ![[Math Probability#强化]]

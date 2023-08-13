@@ -19,7 +19,7 @@ ROM 芯片 -- 非易失性，断电后数据不会丢失 -- 辅存
 - PROM
 	- (Programmable Read-Only Memory)-- 可编程只读存储器
 	- 用户可用专门的 PROM 写入器写入信息,写一次之后就==不可更改==
-- EPROM
+- EPROM ^b844f4
 	- Erasable Programmable(Read-Only Memory) -- 可擦除可编程只读存储器
 	- 允许用户写入信息,之后用某种方法擦除数据,可进行多次重写
 	- UVEPROM(ultraviolet rays)-- 用紫外线照射 8~20 分钟,擦除所有信息
