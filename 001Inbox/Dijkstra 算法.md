@@ -1,0 +1,54 @@
+---
+Aliases: 
+Tags: Computer/Datastructure 
+DateCreated: 2023-09-05T22:26
+DateModified: 2023-09-08T14:44
+---
+# Dijkstra 算法
+
+Top :: [[Computer Datastructure]] - 第六章 - 图 - 6.4.3
+
+## BFS 算法的局限性
+---
+- BFS 算法求单源最短路径只使用于无权图,或所有边的权值都相同的图
+
+## Dijkstra 算法思想
+---
+- Dijkstra 算法设置一个集合 S 记录已求得的最短路径的顶点,
+	- 初始时把源点 $v_{0}$ 放入 S,
+	- 集合 S 每并入一个新项点 $v_{i}$,
+		- 都要修改源点 $v_{0}$ 到集合 V-S 中顶点当前的最短路径长度值
+- 数组
+	- `final[ ]`
+		- 记录各结点是否已经加入到集合 S 中
+	- `dist[ ]`
+		- 记录从源点 $v_{0}$ 到其他各顶点当前的最短路径长度,
+		- 它的初态为
+			- 若 从 $v_{0}$ 到 $v_{i}$ 有弧,
+				- 则 `dist[i]` 为弧上的权值
+			- 否则
+				- `dist[i] = INFINITY`
+	- `path[ ]`
+		- `path[i]` 表示从源点到顶点 i 之间的最短路径的前驱结点
+			- 在算法结束时可以追溯得到最短路径
+- 算法步骤
+	- 初始化
+		- 源点的 `final` 设为 true, 其他点的 `final` 设为 false
+		- 遍历源点到各点的 1 步距离并记录在 `dist[ ]` 中
+			- 1 步无法到达的设为 INFINITY
+		- 源点 1 步内可以到达的各点的 `path` 设为源点下标
+			- 其他点设为 -1
+	- while not false in final:
+		- 循环遍历所有结点,
+			- 找到还没确定最短路径,且 dist 最小的顶点 $V_{i}$
+				- 令 `final[i] = ture`
+		- 检查所有 $V_{i}$ 的顶点
+			- 若 final 值为 false
+				- 则更新 `dist` 和 `path` 信息
+
+## Dijkstra 算法的时间复杂度
+---
+- $O(|V|^{2})$
+	- 类似于 Prim 算法
+
+> Dijkstra 算法不适用于有负权值的带权图

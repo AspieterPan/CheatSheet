@@ -2,7 +2,7 @@
 Aliases: 
 Tags: Computer/Compose 
 DateCreated: 2023-08-11T08:15
-DateModified: 2023-08-11T13:34
+DateModified: 2023-08-14T05:30
 ---
 # 输入输出系统和 IO 控制方式
 
@@ -29,10 +29,10 @@ Top :: [[Computer Compose]] - 第七章 - 输入输出系统 - 7.1.1
 
 ## DMA 控制方式
 ---
-- DMA 控制方式:
-	- DMA:
-		- Direct Memory Access,
-		- 直接内存访问。
+- DMA 控制方式
+	- DMA
+		- Direct Memory Access
+		- 直接内存访问
 	- 主存与高速 I/0 设备之间有一条直接数据通路 (1DMA 总线)。CPU 向 DMA 接口发出 " 读/写 " 命令,并指明主存地址、磁盘地址、读写数据量等参数
 	- DMA 控制器自动控制磁盘与主存的数据读写,每完成一整块数据读写 (如 1KB 为一整块),才向 CPU 发出一次中断请求。
 ## I/O 控制方式简介
@@ -41,7 +41,7 @@ Top :: [[Computer Compose]] - 第七章 - 输入输出系统 - 7.1.1
 
 ## 通道控制方式
 ---
-- 通道:
+- 通道
 	- 可以理解为是 " 弱鸡版的 CPU"。
 	- 通道可以识别并执行一系列通道指令,
 		- 通道指令种类、功能通常比较单一

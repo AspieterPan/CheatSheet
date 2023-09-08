@@ -1,7 +1,7 @@
 ---
 Uid: 202305242228
 Aliases: 
-Tags: Todo
+Tags: TODO
 From: 
 ---
 # MissingSemester_todo

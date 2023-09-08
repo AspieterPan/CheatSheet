@@ -5,6 +5,12 @@ Priority: 6
 ---
 # Linux
 
+## Links
+---
+- [[GDB]]
+	- 调试工具
+- [[mmap]]
+
 ## Tutorial
 ---
 Source:: http://c.biancheng.net/linux_tutorial

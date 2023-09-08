@@ -1,4 +1,4 @@
 ---
-Aliases: [ "#Todo" ]
+Aliases: [ "#TODO" ]
 ---
 # todo

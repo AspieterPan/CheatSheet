@@ -80,3 +80,26 @@ Vim 插入模式下，按 `<Ctrl-r>%` 可将当前文件名输入到文件中
 s: Sentence
 p: Paragraph
 t: Tags
+
+## 折叠
+---
+- `zc`
+	- 折叠当前函数块
+- `zo`
+	- 展开当前所在折叠
+- `za`
+	- 切换折叠状态
+- `zM`
+	- 折叠所有代码块
+- `zR`
+	- 展开所有折叠
+
+- 折叠方式
+	- manual
+	- indent
+	- expr
+	- syntax
+	- diff
+	- marker
+- 设置折叠方式
+	- `:set foldmethod={Method}`
