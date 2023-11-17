@@ -1,6 +1,6 @@
 ---
 Aliases: 移动IP
-Tags: Computer/Newwork 
+Tags: Computer/Network 
 Via: https://www.bilibili.com/video/BV19E411D78Q/?p=58
 DateCreated: 2022-12-04T00:32
 DateModified: 2023-07-10T22:42

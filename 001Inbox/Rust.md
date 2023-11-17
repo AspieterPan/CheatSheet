@@ -3,7 +3,7 @@ aliases: []
 tags:
   - Program/Language
 DateCreated: 2023-08-28T23:13
-DateModified: 2023-09-07T15:48
+DateModified: 2023-11-17T17:36
 ---
 # Rust
 
@@ -144,9 +144,17 @@ DateModified: 2023-09-07T15:48
 			- 如果已经有了不可变引用,
 				- 则不可声明新的可变引用
 		- 悬挂引用
-			- #TODO 
-	- [ ] 4.3. The Slice Type
-- [ ] 5. Using Structs to Structure Related Data
+			- Rust 中不存在悬挂引用
+				- 如果一个引用指向的对象不存在了, 这个引用会直接报错
+	- 4.3. The Slice Type
+		- A slice is a kind of reference
+			- so it does not have ownership
+		- String Slices
+			- `let s = String::from("hello world");`
+				- `let hello = &s[0..5];`
+				- `let world = &s[6..11];`
+				- The ending_index is not included.
+- 5. Using Structs to Structure Related Data
 	- [ ] 5.1. Defining and Instantiating Structs
 	- [ ] 5.2. An Example Program Using Struct
 	- [ ] 5.3. Method Syntax
@@ -156,7 +164,7 @@ DateModified: 2023-09-07T15:48
 	- [ ] 6.3. Concise Control Flow with if let
 - [ ] 7. Managing Growing Projects with Packages, Crates, and Modules
 	- [ ] 7.1. Packages and Crate
-	- [ ] 7.2. Defining Modules to Control Scope and Privacys
+	- [ ] 7.2. Defining Modules to Control Scope and Privacy
 	- [ ] 7.3. Paths for Referring to an Item in the Module Trees
 	- [ ] 7.4. Bringing Paths Into Scope with the use Keywords
 	- [ ] 7.5. Separating Modules into Different Files

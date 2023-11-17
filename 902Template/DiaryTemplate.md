@@ -1,6 +1,6 @@
-# Diary
+# DiaryTemplate
 
-## Tasks
+## Bullet
 ---
 
 ## Memos

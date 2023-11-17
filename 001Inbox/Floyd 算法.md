@@ -2,7 +2,7 @@
 Aliases: 
 Tags: Computer/Datastructure 
 DateCreated: 2023-09-05T22:26
-DateModified: 2023-09-08T14:47
+DateModified: 2023-09-08T15:12
 ---
 # Floyd 算法
 
@@ -25,3 +25,21 @@ Top :: [[Computer Datastructure]] - 第六章 - 图 - 6.4.4
 		- n-1:
 			- 若允许在 Vo、V1、V2…….Vn-1 中转,最短路径是?
 ![[Floyd 算法_1.png]]
+
+![[Floyd 算法_2.png]]
+- while k <= n-1
+	- 遍历整个个矩阵
+		- if $(a:= A^{(k-1)}[i][j]) > (b:= A^{(k-1)}[i][k] + A^{(k-1)}[k][j])$
+			- a = b
+			- $path^{(k)}[i][j] = k$
+		- else
+			- pass
+	- k += 1
+
+- 时间复杂度
+	- $O(|V|^{3})$
+- 空间复杂度
+	- $O(|V|^{2})$
+
+> Floyd 算法允许图中有带负权值的边
+> 但不允许有带负权值的边组成的回路 (因为一直绕着回路走, 路径长度会无限变小)

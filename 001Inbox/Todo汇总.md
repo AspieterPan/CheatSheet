@@ -5,7 +5,7 @@ Tags: TODO
 
 [[408_Todo]]
 
-[[PgMath]]
+[[数学]]
 
 [[Linux_Todo]]
 

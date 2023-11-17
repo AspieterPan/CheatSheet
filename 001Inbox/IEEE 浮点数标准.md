@@ -7,7 +7,7 @@ sr-due: 2023-07-14
 sr-interval: 3
 sr-ease: 250
 ---
-# IEEE
+# IEEE 浮点数标准
 Top:: [[Computer Compose]]
 
 ## Introduce

@@ -1,6 +1,6 @@
 ---
 Aliases: FA
-Tags: Computer/Newwork 
+Tags: Computer/Network 
 sr-due: 2023-08-30
 sr-interval: 51
 sr-ease: 290

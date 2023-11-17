@@ -1,7 +1,7 @@
 ---
 Uid: 202212041228
 Aliases: ["MH","移动主机"]
-Tags: Computer/Newwork 
+Tags: Computer/Network 
 sr-due: 2023-08-21
 sr-interval: 42
 sr-ease: 250
