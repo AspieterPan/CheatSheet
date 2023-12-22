@@ -1,0 +1,68 @@
+---
+DateCreated: 2023-12-05T21:50
+DateModified: 2023-12-05T23:31
+---
+# Areas
+
+- Postgraduate Entrance Exam (PGEE)
+	- // [DDL:: 2023-12-23]
+	- Politics
+	- English
+	- Math
+		- Calculus
+		- ODE (Ordinary Differential Equation) - Infinite Series
+		- Multivariable Calculus - [[Linear Algebra]]
+		- [[Probability and Statistics]] - Computer
+		- [[Computer Datastructure]] - [[Computer Compose]]
+		- [[Computer Operation]] - [[Computer Network]]
+- Tools 
+	- [[Obsidian]]
+		- Creating Plugin 
+		- [[Obsidian_Dataview|Dataview]] Js
+	- [[Vim]] 
+	- [[Emacs]] ([discard:: too slow])
+	- [[Helix]]
+		- // A vim-like cli editor written in Rust
+	- [[Anki]]
+	- [[SuperMemo]]
+- Programming
+	- Language
+		- [[C++|Cpp]]
+			- Modern Cpp
+				- [[Smart Pointer]]
+				- [[Lambda Expression]]
+				- [[Concept]]
+				- [[Coroutine]]
+				- [[Cpp-Template]]
+			- Library
+				- [[Cpp-STL]]
+				- [[Boost]]
+				- [[Qt]]
+		- [[Python]]
+			- Books
+				- [[< Fluent Python >]]
+				- [[< Effective Python >]]
+			- Frames
+				- [[Django]]
+				- [[Flask]]
+					- // Django is like IDE, giving whole things of web back end, while Flask is like Vim, focusing on a small module and needing other tools
+		- [[Rust]]
+			- [The Rust Book](https://doc.rust-lang.org/book/title-page.html)
+				- // Explain the concepts of Rust
+			- [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html)
+				- // How to write code of Rust
+		- [[Javascript]]
+		- [[Flutter]]
+	- Projects
+		- [[Writing miniOS]]
+			- Reading Linux 0.11 Source Code
+			- ~ [Linux 源码趣读](https://mp.weixin.qq.com/s/8bP3feeF_A13j7ysWur_JQ) ~
+		- [[Writing TCP/IP]]
+			- [[CS144]]
+		- [[Writing miniSTL]]
+		- [[Writing Filesystem]]
+	- [[Machine Learn]]
+	- Others
+		- [[函数式编程|Functional Programming]]
+			- ~ [Function Programming in Python](https://pepa.holla.cz/wp-content/uploads/2016/10/functional-programming-python.pdf) ~
+		- [[Leetcode]]

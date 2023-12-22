@@ -2,7 +2,7 @@
 Aliases: 
 Tags: Computer/Datastructure 
 DateCreated: 2023-08-22T20:32
-DateModified: 2023-08-22T20:46
+DateModified: 2023-12-12T08:32
 ---
 # KMP 算法
 
@@ -43,3 +43,9 @@ int Index_KMP(SString S, SString T, int next[]){
 		return 0;
 }
 ```
+
+## [[求 next 数组]]
+---
+
+## [[KMP 算法的进一步优化]]
+---

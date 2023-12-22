@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"text","text":"## 项目定位\n---","id":"33e2f88f3ed07482","x":-807,"y":-470,"width":530,"height":460},
+		{"type":"text","text":"## 提出问题\n---","id":"dd193d78632e16a0","x":-262,"y":-470,"width":530,"height":460},
+		{"type":"text","text":"## 解决方案\n---","id":"e474070c531d6688","x":278,"y":-470,"width":530,"height":460},
+		{"type":"text","text":"## 市场分析\n---","id":"14ceec39d0342220","x":820,"y":-470,"width":530,"height":460},
+		{"type":"text","text":"## 营销策略\n---","id":"d25843b9e546c819","x":-807,"y":10,"width":530,"height":460},
+		{"type":"text","text":"## 竞争优势\n---","id":"247911e7bef5f566","x":-262,"y":10,"width":530,"height":460},
+		{"type":"text","text":"## 核心团队\n---","id":"a6dfad901ed81a27","x":278,"y":10,"width":530,"height":460},
+		{"type":"text","text":"## 执行现状\n---","id":"6f59f0d48ab9ab6a","x":820,"y":10,"width":530,"height":460},
+		{"type":"text","text":"## 计划目标\n---","id":"94bd46335d53bedc","x":-807,"y":480,"width":530,"height":460},
+		{"type":"text","text":"## 商业模式\n---","id":"0a8811cd0d41db36","x":-262,"y":480,"width":530,"height":460},
+		{"type":"text","text":"## 股权结构\n---","id":"85e9df232c1fade9","x":278,"y":480,"width":530,"height":460},
+		{"type":"text","text":"## 融资计划\n---","id":"e85018f27821861a","x":820,"y":480,"width":530,"height":460}
+	],
+	"edges":[]
+}

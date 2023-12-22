@@ -11,9 +11,9 @@ DateModified: 2023-08-16T23:38
 - CheatSheet
 	- [[Cpp_CheatSheet]]
 - Modules
-	- [[Cpp_STL]]
+	- [[Cpp-STL]]
 - Template
-	- [[Cpp_Template]]
+	- [[Cpp-Template]]
 
 ## Tutorial
 
