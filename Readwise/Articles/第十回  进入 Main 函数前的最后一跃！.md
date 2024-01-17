@@ -1,7 +1,7 @@
 ---
 Author: [[闪客]]
 Full Title: 第十回 | 进入 Main 函数前的最后一跃！
-Tags: Reading
+tags: Reading
 Category: Readwise_articles
 URL: https://mp.weixin.qq.com/s/ISyaX5zPWRw_d-9zvZUPUg
 ---

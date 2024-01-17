@@ -1,7 +1,7 @@
 ---
 Uid: 202305242228
 Aliases: 
-Tags: Tool,文献管理工具
+tags: Tool,文献管理工具
 From: 
 Priority: 
 ---

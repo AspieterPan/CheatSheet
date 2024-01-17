@@ -1,6 +1,6 @@
 ---
 Aliases: 
-Tags: ["Tool", "ChromeExtension"]
+tags: ["Tool", "ChromeExtension"]
 DateCreated: 2023-07-25T11:23
 DateModified: 2023-07-25T17:29
 ---

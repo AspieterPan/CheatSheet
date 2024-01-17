@@ -1,6 +1,6 @@
 ---
 Aliases: 
-Tags: 
+tags: 
 DateCreated: 2023-10-13T19:18
 DateModified: 2023-10-13T20:05
 ---

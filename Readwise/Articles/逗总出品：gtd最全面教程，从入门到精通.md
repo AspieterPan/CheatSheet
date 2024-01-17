@@ -1,7 +1,7 @@
 ---
 Author: [[知乎专栏]]
 Full Title: 逗总出品：gtd最全面教程，从入门到精通
-Tags: Reading 
+tags: Reading 
 Category: Readwise_articles
 URL: https://zhuanlan.zhihu.com/p/42694082
 ---

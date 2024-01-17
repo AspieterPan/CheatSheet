@@ -1,7 +1,7 @@
 ---
 Uid: 202305242228
 Aliases: "Linking Your Think"
-Tags: 
+tags: 
 From: 
 ---
 # LYT

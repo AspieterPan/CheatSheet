@@ -1,7 +1,7 @@
 ---
 Uid: 202305242228
 Aliases: 
-Tags: TODO
+tags: TODO
 From: 
 ---
 # Python实战_todo

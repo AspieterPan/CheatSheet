@@ -1,6 +1,6 @@
 ---
 Aliases: 
-Tags: Computer/Datastructure 
+tags: Computer/Datastructure 
 DateCreated: 2023-09-05T22:26
 DateModified: 2023-09-08T15:12
 ---

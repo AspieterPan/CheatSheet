@@ -1,8 +1,8 @@
 ---
 Aliases: 
-Tags: Obsidian 
+tags: Obsidian 
 DateCreated: 2023-05-28T01:04
-DateModified: 2023-07-10T20:56
+DateModified: 2024-01-17T13:45
 ---
 # Obsidian_Plugin
 Top:: [[Obsidian]]
@@ -20,7 +20,7 @@ Top:: [[Obsidian]]
 ---
 - Footnote Shortcut
 	- 快速添加脚注
-- Tidy Footnote
+- [x] Tidy Footnote(using [[Obsidian-Linter]] auto adjust footnote sequence on save)
 	- 快速整理脚注顺序
  
 ## Quick
@@ -53,7 +53,7 @@ Top:: [[Obsidian]]
 ## Heading
 ---
 - Zoom
-	- 像 [[Remnote]] 那样 Zoom 到一个 bullet 里面。Cool~
+	- 像 [[Remnote]] 那样 Zoom 到一个 bullet 里面.
 
 ## Block
 ---
@@ -61,5 +61,10 @@ Top:: [[Obsidian]]
 	- 插入伪代码风格的代码块
 	- [介绍文章](https://zhuanlan.zhihu.com/p/616961412)
 - Obsidian_MermaidTools
-	- 快速插入各种 [[Mermaid]]  语句
+	- 快速插入各种 [[Mermaid]] 语句
 	- 提供可视化的控件，并且可以自己设定控件
+
+## Project
+---
+- [Obsidian_Projects](https://github.com/marcusolsson/obsidian-projects)
+	- [BUG] 识别的 tag 属性必须是 "tags" 而不能是 "Tags"

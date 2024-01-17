@@ -1,6 +1,6 @@
 ---
 Aliases: 
-Tags: Program/Language/Assembly
+tags: Program/Language/Assembly
 DateCreated: 2023-10-28T14:53
 DateModified: 2023-10-28T14:55
 ---

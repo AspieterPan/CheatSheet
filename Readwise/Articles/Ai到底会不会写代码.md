@@ -1,9 +1,9 @@
 ---
 Author: [[liaoxuefeng.com]]
 Full Title: Ai到底会不会写代码
-Tags: Reading
+tags: Reading
 Category: Readwise_articles
-Document Tags: [[AI]] 
+Document tags: [[AI]] 
 URL: https://www.liaoxuefeng.com/article/1529346133065763
 ---
 # Ai到底会不会写代码

@@ -1,6 +1,6 @@
 ---
 Aliases: 波特
-Tags: Computer/Network
+tags: Computer/Network
 sr-due: 2023-09-05
 sr-interval: 57
 sr-ease: 290

@@ -1,7 +1,7 @@
 ---
 Uid: 202305242228
 Aliases: 
-Tags: 知识管理模型
+tags: 知识管理模型
 From: 
 Priority: 
 ---

@@ -1,6 +1,6 @@
 ---
 Aliases: [ "#Program/System/Linux","Linux" ]
-Tags: Program/System
+tags: Program/System
 Priority: 6
 ---
 # Linux

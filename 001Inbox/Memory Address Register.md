@@ -1,5 +1,5 @@
 ---
-Tags: Computer/Compose 
+tags: Computer/Compose 
 Aliases: ["MAR","存储地址寄存器"]
 DateCreated: 2023-07-10T19:06
 DateModified: 2023-07-10T19:06

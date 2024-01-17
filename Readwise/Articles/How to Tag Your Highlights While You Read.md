@@ -1,7 +1,7 @@
 ---
 Author: [[Daniel Doyon]]
 Full Title: How to Tag Your Highlights While You Read
-Tags: Reading
+tags: Reading
 Category: Readwise_articles
 URL: https://blog.readwise.io/tag-your-highlights-while-you-read/
 ---

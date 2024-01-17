@@ -1,7 +1,7 @@
 ---
 Uid: 202305242228
 Aliases: 
-Tags: Program/Language/JavaScript 
+tags: Program/Language/JavaScript 
 ---
 # JavaScript_数据类型和变量
 Top:: [[Javascript]]

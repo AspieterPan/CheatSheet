@@ -4,7 +4,7 @@ PromptInfo:
  name: 💡BrainStorm Ideas
  description: Brainstorm idea about the context.
  author: Noureddine
- Tags: ideas, writing
+ tags: ideas, writing
  version: 0.0.1
 ---
 content: 

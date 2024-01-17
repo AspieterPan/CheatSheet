@@ -1,5 +1,5 @@
 ---
-Tags: TODO,Program/Language/Python
+tags: TODO,Program/Language/Python
 From: "http://c.biancheng.net/numpy/"
 ---
 # Python_Numpy_todo

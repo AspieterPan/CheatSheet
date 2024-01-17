@@ -1,7 +1,7 @@
 ---
 Author: [[雨乐]]
 Full Title: 2万字|30张图带你领略glibc内存管理精髓
-Tags: Reading
+tags: Reading
 Category: Readwise_articles
 URL: https://mp.weixin.qq.com/s?__biz=Mzk0MzI4OTI1Ng==&mid=2247485953&idx=1&sn=f8cd484607ab07f15247ecde773d2e1c&scene=21#wechat_redirect
 ---

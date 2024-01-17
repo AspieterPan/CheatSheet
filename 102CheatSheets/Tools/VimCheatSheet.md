@@ -1,6 +1,6 @@
 ---
 Aliases: 
-Tags: Vim
+tags: Vim
 DateCreated: 2023-04-07T11:05
 DateModified: 2023-06-28T21:25
 ---

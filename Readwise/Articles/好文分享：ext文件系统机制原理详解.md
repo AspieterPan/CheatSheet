@@ -1,7 +1,7 @@
 ---
 Author: [[作者：骏马金龙]]
 Full Title: 好文分享：ext文件系统机制原理详解
-Tags: Reading
+tags: Reading
 Category: Readwise_articles
 URL: https://www.51cto.com/article/603104.html
 ---

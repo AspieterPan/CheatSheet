@@ -1,7 +1,7 @@
 ---
 Author: [[Daniel Doyon]]
 Full Title: How to Combine Highlights On-the-Fly with Readwise
-Tags: Reading
+tags: Reading
 Category: Readwise_articles
 URL: https://blog.readwise.io/combine-highlights-on-the-fly/
 ---

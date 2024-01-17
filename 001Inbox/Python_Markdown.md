@@ -1,7 +1,7 @@
 ---
 Uid: 202305242228
 Aliases: 
-Tags: Program/Language/Python 
+tags: Program/Language/Python 
 From: 
 ---
 # Python_Markdown

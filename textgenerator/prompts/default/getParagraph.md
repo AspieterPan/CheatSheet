@@ -5,7 +5,7 @@ PromptInfo:
  description: select one item, a paragraph will be generated.
  required_values: title, outline
  author: Noureddine
- Tags: writing
+ tags: writing
  version: 0.0.1
 ---
 title:

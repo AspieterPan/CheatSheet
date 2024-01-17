@@ -1,6 +1,6 @@
 ---
 Aliases: 
-Tags: Tool 
+tags: Tool 
 ---
 # GDB
 

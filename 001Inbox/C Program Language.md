@@ -1,7 +1,7 @@
 ---
 Uid: 202305242228
 Aliases: C语言,C
-Tags: Program/Language 
+tags: Program/Language 
 ---
 # C Program Language
 

@@ -1,6 +1,6 @@
 ---
 Aliases: 
-Tags: Program/System 
+tags: Program/System 
 DateCreated: 2023-08-28T21:45
 DateModified: 2023-08-28T22:06
 ---

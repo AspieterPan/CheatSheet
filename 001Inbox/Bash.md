@@ -1,7 +1,7 @@
 ---
 DateCreated: 2023-07-18T16:36
 DateModified: 2023-07-18T16:36
-Tags: Program/Language 
+tags: Program/Language 
 ---
 # Bash
 

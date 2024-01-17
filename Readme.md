@@ -18,7 +18,7 @@
 - MetaData 一般为 Uid, Aliases, Tags, From, Priority  这 5 个
 	- Uid: 根据创建时间自动添加的属性
 	- Aliases: 别名，官方属性，在创建链接时，可以搜索到卡片的alias
-	- Tags: 标签，官方属性
+	- tags: 标签，官方属性
 	- From: 当卡片来源于第三方资料时，标注来源
 	- Priority: 优先级，与 Todo 联动
 - 另外有一些其他的 MetaData 可以选择使用

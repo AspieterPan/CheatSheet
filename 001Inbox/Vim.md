@@ -1,6 +1,6 @@
 ---
 Aliases: ["#Vim"]
-Tags: Tool
+tags: Tool
 DateCreated: 2023-06-26T03:21
 DateModified: 2023-10-27T15:37
 ---

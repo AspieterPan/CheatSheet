@@ -1,7 +1,7 @@
 ---
 DateCreated: 2023-11-17T17:25
 DateModified: 2023-11-17T17:28
-Tags: Tool/Cli
+tags: Tool/Cli
 ---
 # cheat
 

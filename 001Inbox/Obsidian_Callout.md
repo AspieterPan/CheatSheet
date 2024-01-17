@@ -1,7 +1,7 @@
 ---
 Uid: 202305242228
 Aliases: Callout
-Tags: Obsidian 
+tags: Obsidian 
 From: https://help.obsidian.md/Editing+and+formatting/Callouts
 Priority: 
 ---

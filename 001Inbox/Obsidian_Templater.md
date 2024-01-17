@@ -1,6 +1,6 @@
 ---
 Aliases: 
-Tags: Obsidian 
+tags: Obsidian 
 DateCreated: 2023-06-19T15:56
 DateModified: 2023-08-09T17:22
 ---

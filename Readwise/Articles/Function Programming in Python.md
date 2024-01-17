@@ -1,7 +1,7 @@
 ---
 Author: [[David Mertz]]
 Full Title: Function Programming in Python
-Tags: Reading
+tags: Reading
 Category: Readwise_articles
 Document Note: 1. What is the difference between functional programming and imperative programming? 
 2. How does recursion play a role in functional programming? 

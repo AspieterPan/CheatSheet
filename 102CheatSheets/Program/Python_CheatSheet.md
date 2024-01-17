@@ -1,7 +1,7 @@
 ---
 Uid: 202305242228
 Aliases: 
-Tags: Program/Language/Python,Cheatsheet
+tags: Program/Language/Python,Cheatsheet
 From: 
 ---
 

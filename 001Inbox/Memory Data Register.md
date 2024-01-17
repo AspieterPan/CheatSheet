@@ -1,6 +1,6 @@
 ---
 Aliases: ["MDR", "存储数据寄存器"]
-Tags: Computer/Compose 
+tags: Computer/Compose 
 DateCreated: 2023-07-10T19:09
 DateModified: 2023-07-10T19:10
 sr-due: 2023-07-13

@@ -1,6 +1,6 @@
 ---
 Aliases: 
-Tags: Math
+tags: Math
 ---
 # How to self study pure math - a step-by-step guide
 Via:: https://www.youtube.com/watch?v=byNaO_zn2fI

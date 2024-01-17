@@ -1,9 +1,9 @@
 ---
 Author: [[okjike.com]]
 Full Title: AI 洞察：一线医生如何实际使用 ChatGPT？ 打开方式超越专家的想象
-Tags: Reading
+tags: Reading
 Category: Readwise_articles
-Document Tags: [[AI]] 
+Document tags: [[AI]] 
 URL: https://m.okjike.com/originalPosts/648935933a29529a3bd79287
 ---
 # AI 洞察：一线医生如何实际使用 ChatGPT？ 打开方式超越专家的想象

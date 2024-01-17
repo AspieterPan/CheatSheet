@@ -1,6 +1,6 @@
 ---
 Aliases: 
-Tags: Program/Language
+tags: Program/Language
 DateCreated: 2023-05-25T22:16
 DateModified: 2023-06-28T23:26
 ---

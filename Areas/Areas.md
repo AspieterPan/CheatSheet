@@ -20,7 +20,7 @@ DateModified: 2023-12-05T23:31
 		- Creating Plugin 
 		- [[Obsidian_Dataview|Dataview]] Js
 	- [[Vim]] 
-	- [[Emacs]] ([discard:: too slow])
+	- [x] [[Emacs]] ([Discard :: too slow])
 	- [[Helix]]
 		- // A vim-like cli editor written in Rust
 	- [[Anki]]
@@ -46,6 +46,7 @@ DateModified: 2023-12-05T23:31
 				- [[Django]]
 				- [[Flask]]
 					- // Django is like IDE, giving whole things of web back end, while Flask is like Vim, focusing on a small module and needing other tools
+				- [[FastApi]]
 		- [[Rust]]
 			- [The Rust Book](https://doc.rust-lang.org/book/title-page.html)
 				- // Explain the concepts of Rust
@@ -61,7 +62,7 @@ DateModified: 2023-12-05T23:31
 			- [[CS144]]
 		- [[Writing miniSTL]]
 		- [[Writing Filesystem]]
-	- [[Machine Learn]]
+	- [[Machine Learning]]
 	- Others
 		- [[函数式编程|Functional Programming]]
 			- ~ [Function Programming in Python](https://pepa.holla.cz/wp-content/uploads/2016/10/functional-programming-python.pdf) ~

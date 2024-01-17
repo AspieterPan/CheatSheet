@@ -1,6 +1,6 @@
 ---
 Aliases: 
-Tags: Program/Language/Python/Tool
+tags: Program/Language/Python/Tool
 DateCreated: 2023-10-11T22:06
 DateModified: 2023-10-11T22:08
 ---

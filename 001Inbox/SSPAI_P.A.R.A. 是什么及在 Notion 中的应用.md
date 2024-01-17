@@ -1,7 +1,7 @@
 ---
 Uid: 202305242228
 Aliases: 
-Tags: Reading,知识管理模型 
+tags: Reading,知识管理模型 
 From: https://sspai.com/post/61459
 Priority: 
 ---

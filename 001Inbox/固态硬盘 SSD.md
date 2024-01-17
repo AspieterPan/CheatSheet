@@ -1,6 +1,6 @@
 ---
 Aliases: 
-Tags: Computer/Compose 
+tags: Computer/Compose 
 DateCreated: 2023-07-12T15:37
 DateModified: 2023-07-12T15:47
 sr-due: 2023-07-15

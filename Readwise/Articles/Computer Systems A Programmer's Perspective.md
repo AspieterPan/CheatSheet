@@ -1,7 +1,7 @@
 ---
 Author: [[Bryant, Randal; OHallaron, David;]]
 Full Title: Computer Systems A Programmer's Perspective
-Tags: Reading
+tags: Reading
 Category: Readwise_articles
 URL: https://readwise.io/reader/document_raw_content/18412140
 ---

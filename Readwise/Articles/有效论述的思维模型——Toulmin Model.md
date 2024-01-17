@@ -1,7 +1,7 @@
 ---
 Author: [[知乎专栏]]
 Full Title: 有效论述的思维模型——Toulmin Model
-Tags: Reading
+tags: Reading
 Category: Readwise_articles
 URL: https://zhuanlan.zhihu.com/p/139586217
 ---

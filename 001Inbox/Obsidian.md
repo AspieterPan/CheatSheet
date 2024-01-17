@@ -1,6 +1,6 @@
 ---
 Aliases: ["#Obsidian"] 
-Tags: 
+tags: 
 DateCreated: 2023-05-27T01:23
 DateModified: 2023-06-28T23:25
 ---

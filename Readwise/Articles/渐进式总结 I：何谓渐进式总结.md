@@ -14,7 +14,7 @@ URL: https://www.notion.so/I-4072e6ac6ad64e45bf03a8b9318613cc
 ---
 - 困难的不是将信息从一个地方传输到另一个地方
   而是「跨时距传递 」（What is difficult is not transferring content from place to place, but transferring it through time.） ([View Highlight](https://read.readwise.io/read/01h1pqsf8z68zr8zdz4c9sx455))
-    - Tags: [[favorite]] 
+    - tags: [[favorite]] 
 - 更多人则成为了食知动物（infovores），强行给自己灌输无穷无尽的书籍、文章和课程，希望有东西能坚持下来。 ([View Highlight](https://read.readwise.io/read/01h1phz7wp5wkmwpyhdn2xnac5))
     - Note: 最近开始使用了 Obsidian 后有成为 Infovores 的倾向——看到什么都想在 Obsidian 里面做一个笔记。几天过去了反而感觉脑子里什么知识都没有装进去
       反而是沉浸在做数学题的一周里，回过头发现自己居然学了那么多东西

@@ -1,6 +1,6 @@
 ---
 Aliases: [ "#Program/Language/Python" ]
-Tags: Program/Language
+tags: Program/Language
 DateCreated: 2023-11-18T15:17
 DateModified: 2023-12-05T22:48
 ---

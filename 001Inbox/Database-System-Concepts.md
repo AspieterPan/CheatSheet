@@ -1,0 +1,383 @@
+---
+Aliases:
+tags:
+  - Book
+  - Computer/Database
+  - Process
+DateCreated: 2024-01-17T01:26
+DateModified: 2024-01-17T14:20
+Status: Running
+Priority: 1
+StartDate: 2024-01-17
+---
+# Database-System-Concepts
+
+- Reader Link
+	- [Reader:Database-System-Concepts](https://read.readwise.io/read/01hkyw7pqr47f8wykvm61p7253)
+## Schedule
+---
+- 40 pages per day
+- [Current :: 1/1000]
+- [DDL:: 2024-02-20]
+
+## Logs
+---
+### 2024-01-17
+#TODO
+
+## TOC
+---
+- [ ] Preface xv
+	- [ ] Chapter 1 Introduction
+		- [ ] 1.1 Database System Applications 1
+		- [ ] 1.2 Database Systems versus File Systems 3
+		- [ ] 1.3 View of Data 5
+		- [ ] 1.4 Data Models 7
+		- [ ] 1.5 Database Languages 11
+		- [ ] 1.6 Database Users and Administrators 13
+		- [ ] 1.7 Transaction Management 15
+		- [ ] 1.8 Database System Structure 16
+		- [ ] 1.9 Application Architectures 18
+		- [ ] 1.10 History of Database Systems 18
+		- [ ] 1.11 Summary 21
+		- [ ] Exercises 23
+		- [ ] Bibliographical Notes 24
+- [ ] PART 1 DATA MODELS
+	- [ ] Chapter 2 Entity-Relationship Model
+		- [ ] 2.1 Basic Concepts 27
+		- [ ] 2.2 Constraints 33
+		- [ ] 2.3 Keys 35
+		- [ ] 2.4 Design Issues 37
+		- [ ] 2.5 Entity-Relationship Diagram 42
+		- [ ] 2.6 Weak Entity Sets 47
+		- [ ] 2.7 Extended E-R Features 49
+		- [ ] 2.8 Design of an E-R Database Schema 56
+		- [ ] 2.9 Reduction of an E-R Schema to Tables 62
+		- [ ] 2.10 The Unified Modeling Language UML 68
+		- [ ] 2.11 Summary 70
+		- [ ] Exercises 72
+		- [ ] Bibliographical Notes 77
+	- [ ] Chapter 3 Relational Model
+		- [ ] 3.1 Structure of Relational Databases 79
+		- [ ] 3.2 The Relational Algebra 89
+		- [ ] 3.3 Extended Relational-Algebra Operations 103
+		- [ ] 3.4 Modification of the Database 111
+		- [ ] 3.5 Views 113
+		- [ ] 3.6 The Tuple Relational Calculus 118
+		- [ ] 3.7 The Domain Relational Calculus 122
+		- [ ] 3.8 Summary 126
+		- [ ] Exercises 127
+		- [ ] Bibliographical Notes 131
+- [ ] PART 2 RELATIONAL DATABASES
+	- [ ] Chapter 4 SQL
+		- [ ] 4.1 Background 135
+		- [ ] 4.2 Basic Structure 137
+		- [ ] 4.3 Set Operations 144
+		- [ ] 4.4 Aggregate Functions 146
+		- [ ] 4.5 Null Values 148
+		- [ ] 4.6 Nested Subqueries 149
+		- [ ] 4.7 Views 154
+		- [ ] 4.8 Complex Queries 155
+		- [ ] 4.9 Modification of the Database 157
+		- [ ] 4.10 Joined Relations 163
+		- [ ] 4.11 Data-Definition Language 168
+		- [ ] 4.12 Embedded SQL 172
+		- [ ] 4.13 Dynamic SQL 175
+		- [ ] 4.14 Other SQL Features 180
+		- [ ] 4.15 Summary 182
+		- [ ] Exercises 183
+		- [ ] Bibliographical Notes 186
+	- [ ] Chapter 5 Other Relational Languages
+		- [ ] 5.1 Query-by-Example 189
+		- [ ] 5.2 Datalog 203
+		- [ ] 5.3 User Interfaces and Tools 217
+		- [ ] 5.4 Summary 219
+		- [ ] Exercises 220
+		- [ ] Bibliographical Notes 223
+	- [ ] Chapter 6 Integrity and Security
+		- [ ] 6.1 Domain Constraints 225
+		- [ ] 6.2 Referential Integrity 227
+		- [ ] 6.3 Assertions 232
+		- [ ] 6.4 Triggers 233
+		- [ ] 6.5 Security and Authorization 238
+		- [ ] 6.6 Authorization in SQL 244
+		- [ ] 6.7 Encryption and Authentication 248
+		- [ ] 6.8 Summary 250
+		- [ ] Exercises 252
+		- [ ] Bibliographical Notes 254
+	- [ ] Chapter 7 Relational-Database Design
+		- [ ] 7.1 First Normal Form 257
+		- [ ] 7.2 Pitfalls in Relational-Database Design 258
+		- [ ] 7.3 Functional Dependencies 260
+		- [ ] 7.4 Decomposition 271
+		- [ ] 7.5 Desirable Properties of Decomposition 275
+		- [ ] 7.6 Boyce-Codd Normal Form 279
+		- [ ] 7.7 Third Normal Form 284
+		- [ ] 7.8 Fourth Normal Form 289
+		- [ ] 7.9 More Normal Forms 293
+		- [ ] 7.10 Overall Database Design Process 293
+		- [ ] 7.11 Summary 297
+		- [ ] Exercises 299
+		- [ ] Bibliographical Notes 303
+- [ ] PART 3 OBJECT-BASED DATABASES AND XML
+	- [ ] Chapter 8 Object-Oriented Databases
+		- [ ] 8.1 Need for Complex Data Types 307
+		- [ ] 8.2 The Object-Oriented Data Model 308
+		- [ ] 8.3 Object-Oriented Languages 318
+		- [ ] 8.4 Persistent Programming Languages 318
+		- [ ] 8.5 Persistent C++ Systems 322
+		- [ ] 8.6 Persistent Java Systems 330
+		- [ ] 8.7 Summary 331
+		- [ ] Exercises 332
+		- [ ] Bibliographical Notes 333
+	- [ ] Chapter 9 Object-Relational Databases
+		- [ ] 9.1 Nested Relations 335
+		- [ ] 9.2 Complex Types 337
+		- [ ] 9.3 Inheritance 342
+		- [ ] 9.4 Reference Types 346
+		- [ ] 9.5 Querying with Complex Types 348
+		- [ ] 9.6 Functions and Procedures 351
+		- [ ] 9.7 Object-Oriented versus Object-Relational 356
+		- [ ] 9.8 Summary 357
+		- [ ] Exercises 358
+		- [ ] Bibliographical Notes 360
+	- [ ] Chapter 10 XML
+		- [ ] 10.1 Background 361
+		- [ ] 10.2 Structure of XML Data 364
+		- [ ] 10.3 XML Document Schema 367
+		- [ ] 10.4 Querying and Transformation 372
+		- [ ] 10.5 The Application Program Interface 380
+		- [ ] 10.6 Storage of XML Data 381
+		- [ ] 10.7 XML Applications 384
+		- [ ] 10.8 Summary 386
+		- [ ] Exercises 388
+		- [ ] Bibliographical Notes 390
+- [ ] PART 4 DATA STORAGE AND QUERYING
+	- [ ] Chapter 11 Storage and File Structure
+		- [ ] 11.1 Overview of Physical Storage Media 393
+		- [ ] 11.2 Magnetic Disks 396
+		- [ ] 11.3 RAID 402
+		- [ ] 11.4 Tertiary Storage 410
+		- [ ] 11.5 Storage Access 412
+		- [ ] 11.6 File Organization 415
+		- [ ] 11.7 Organization of Records in Files 422
+		- [ ] 11.8 Data-Dictionary Storage 426
+		- [ ] 11.9 Storage for Object-Oriented Databases 428
+		- [ ] 11.10 Summary 438
+		- [ ] Exercises 440
+		- [ ] Bibliographical Notes 443
+	- [ ] Chapter 12 Indexing and Hashing
+		- [ ] 12.1 Basic Concepts 445
+		- [ ] 12.2 Ordered Indices 446
+		- [ ] 12.3 B+-Tree Index Files 453
+		- [ ] 12.4 B-Tree Index Files 464
+		- [ ] 12.5 Static Hashing 465
+		- [ ] 12.6 Dynamic Hashing 471
+		- [ ] 12.7 Comparison of Ordered Indexing and Hashing 477
+		- [ ] 12.8 Index Definition in SQL 479
+		- [ ] 12.9 Multiple-Key Access 480
+		- [ ] 12.10 Summary 487
+		- [ ] Exercises 489
+		- [ ] Bibliographical Notes 491
+	- [ ] Chapter 13 Query Processing
+		- [ ] 13.1 Overview 493
+		- [ ] 13.2 Measures of Query Cost 495
+		- [ ] 13.3 Selection Operation 496
+		- [ ] 13.4 Sorting 501
+		- [ ] 13.5 Join Operation 503
+		- [ ] 13.6 Other Operations 514
+		- [ ] 13.7 Evaluation of Expressions 518
+		- [ ] 13.8 Summary 523
+		- [ ] Exercises 525
+		- [ ] Bibliographical Notes 526
+	- [ ] Chapter 14 Query Optimization
+		- [ ] 14.1 Overview 529
+		- [ ] 14.2 Estimating Statistics of Expression Results 531
+		- [ ] 14.3 Transformation of Relational Expressions 537
+		- [ ] 14.4 Choice of Evaluation Plans 544
+		- [ ] 14.5 Materialized Views 553
+		- [ ] 14.6 Summary 557
+		- [ ] Exercises 559
+		- [ ] Bibliographical Notes 561
+- [ ] PART 5 TRANSACTIONMANAGEMENT
+	- [ ] Chapter 15 Transactions
+		- [ ] 15.1 Transaction Concept 565
+		- [ ] 15.2 Transaction State 568
+		- [ ] 15.3 Implementation of Atomicity and Durability 571
+		- [ ] 15.4 Concurrent Executions 573
+		- [ ] 15.5 Serializability 576
+		- [ ] 15.6 Recoverability 582
+		- [ ] 15.7 Implementation of Isolation 583
+		- [ ] 15.8 Transaction Definition in SQL 584
+		- [ ] 15.9 Testing for Serializability 584
+		- [ ] 15.10 Summary 586
+		- [ ] Exercises 588
+		- [ ] Bibliographical Notes 590
+	- [ ] Chapter 16 Concurrency Control
+		- [ ] 16.1 Lock-Based Protocols 591
+		- [ ] 16.2 Timestamp-Based Protocols 604
+		- [ ] 16.3 Validation-Based Protocols 607
+		- [ ] 16.4 Multiple Granularity 609
+		- [ ] 16.5 Multiversion Schemes 612
+		- [ ] 16.6 Deadlock Handling 615
+		- [ ] 16.7 Insert and Delete Operations 620
+		- [ ] 16.8 Weak Levels of Consistency 623
+		- [ ] 16.9 Concurrency in Index Structures 625
+		- [ ] 16.10 Summary 629
+		- [ ] Exercises 632
+		- [ ] Bibliographical Notes 636
+	- [ ] Chapter 17 Recovery System
+		- [ ] 17.1 Failure Classification 639
+		- [ ] 17.2 Storage Structure 640
+		- [ ] 17.3 Recovery and Atomicity 644
+		- [ ] 17.4 Log-Based Recovery 645
+		- [ ] 17.5 Shadow Paging 653
+		- [ ] 17.6 Recovery with Concurrent Transactions 657
+		- [ ] 17.7 Buffer Management 660
+		- [ ] 17.8 Failure with Loss of Nonvolatile Storage 663
+		- [ ] 17.9 Advanced Recovery Techniques 664
+		- [ ] 17.10 Remote Backup Systems 672
+		- [ ] 17.11 Summary 674
+		- [ ] Exercises 677
+		- [ ] Bibliographical Notes 679
+- [ ] PART 6 DATABASE SYSTEM ARCHITECTURE
+	- [ ] Chapter 18 Database System Architectures
+		- [ ] 18.1 Centralized and Client-Server Architectures 683
+		- [ ] 18.2 Server System Architectures 687
+		- [ ] 18.3 Parallel Systems 691
+		- [ ] 18.4 Distributed Systems 697
+		- [ ] 18.5 Network Types 701
+		- [ ] 18.6 Summary 703
+		- [ ] Exercises 705
+		- [ ] Bibliographical Notes 707
+	- [ ] Chapter 19 Distributed Databases
+		- [ ] 19.1 Homogeneous and Heterogeneous Databases 709
+		- [ ] 19.2 Distributed Data Storage 710
+		- [ ] 19.3 Distributed Transactions 713
+		- [ ] 19.4 Commit Protocols 716
+		- [ ] 19.5 Concurrency Control in Distributed Databases 722
+		- [ ] 19.6 Availability 730
+		- [ ] 19.7 Distributed Query Processing 735
+		- [ ] 19.8 Heterogeneous Distributed Databases 738
+		- [ ] 19.9 Directory Systems 741
+		- [ ] 19.10 Summary 746
+		- [ ] Exercises 749
+		- [ ] Bibliographical Notes 752
+	- [ ] Chapter 20 Parallel Databases
+		- [ ] 20.1 Introduction 755
+		- [ ] 20.2 I/O Parallelism 756
+		- [ ] 20.3 Interquery Parallelism 760
+		- [ ] 20.4 Intraquery Parallelism 761
+		- [ ] 20.5 Intraoperation Parallelism 762
+		- [ ] 20.6 Interoperation Parallelism 770
+		- [ ] 20.7 Design of Parallel Systems 772
+		- [ ] 20.8 Summary 773
+		- [ ] Exercises 775
+		- [ ] Bibliographical Notes 777
+- [ ] PART 7 OTHER TOPICS
+	- [ ] Chapter 21 Application Development and Administration
+		- [ ] 21.1 Web Interfaces to Databases 781
+		- [ ] 21.2 Performance Tuning 790
+		- [ ] 21.3 Performance Benchmarks 798
+		- [ ] 21.4 Standardization 802
+		- [ ] 21.5 E-Commerce 806
+		- [ ] 21.6 Legacy Systems 809
+		- [ ] 21.7 Summary 810
+		- [ ] Exercises 812
+		- [ ] Bibliographical Notes 815
+	- [ ] Chapter 22 Advanced Querying and Information Retrieval
+		- [ ] 22.1 Decision-Support Systems 817
+		- [ ] 22.2 Data Analysis and OLAP 819
+		- [ ] 22.3 Data Mining 830
+		- [ ] 22.4 Data Warehousing 842
+		- [ ] 22.5 Information-Retrieval Systems 846
+		- [ ] 22.6 Summary 856
+		- [ ] Exercises 859
+		- [ ] Bibliographical Notes 861
+	- [ ] Chapter 23 Advanced Data Types and New Applications
+		- [ ] 23.1 Motivation 863
+		- [ ] 23.2 Time in Databases 864
+		- [ ] 23.3 Spatial and Geographic Data 866
+		- [ ] 23.4 Multimedia Databases 877
+		- [ ] 23.5 Mobility and Personal Databases 880
+		- [ ] 23.6 Summary 885
+		- [ ] Exercises 887
+		- [ ] Bibliographical Notes 889
+	- [ ] Chapter 24 Advanced Transaction Processing
+		- [ ] 24.1 Transaction-Processing Monitors 891
+		- [ ] 24.2 Transactional Workflows 895
+		- [ ] 24.3 Main-Memory Databases 901
+		- [ ] 24.4 Real-Time Transaction Systems 903
+		- [ ] 24.5 Long-Duration Transactions 904
+		- [ ] 24.6 Transaction Management in Multidatabases 910
+		- [ ] 24.7 Summary 914
+		- [ ] Exercises 916
+		- [ ] Bibliographical Notes 917
+- [ ] PART 8 CASE STUDIES
+	- [ ] Chapter 25 Oracle
+		- [ ] 25.1 Database Design and Querying Tools 921
+		- [ ] 25.2 SQL Variations and Extensions 923
+		- [ ] 25.3 Storage and Indexing 925
+		- [ ] 25.4 Query Processing and Optimization 934
+		- [ ] 25.5 Concurrency Control and Recovery 940
+		- [ ] 25.6 System Architecture 942
+		- [ ] 25.7 Replication, Distribution, and External Data 945
+		- [ ] 25.8 Database Administration Tools 946
+		- [ ] Bibliographical Notes 947
+	- [ ] Chapter 26 IBM DB2 Universal Database
+		- [ ] 26.1 Database Design and Querying Tools 950
+		- [ ] 26.2 SQL Variations and Extensions 951
+		- [ ] 26.3 Storage and Indexing 953
+		- [ ] 26.4 Query Processing and Optimization 956
+		- [ ] 26.5 Concurrency Control and Recovery 960
+		- [ ] 26.6 System Architecture 963
+		- [ ] 26.7 Replication, Distribution, and External Data 965
+		- [ ] 26.8 Database Administration Tools 965
+		- [ ] 26.9 Summary 967
+		- [ ] Bibliographical Notes 967
+	- [ ] Chapter 27 Microsoft SQL Server
+		- [ ] 27.1 Management, Design, and Querying Tools 969
+		- [ ] 27.2 SQL Variations and Extensions 975
+		- [ ] 27.3 Storage and Indexing 980
+		- [ ] 27.4 Query Processing and Optimization 982
+		- [ ] 27.5 Concurrency and Recovery 986
+		- [ ] 27.6 System Architecture 991
+		- [ ] 27.7 Data Access 992
+		- [ ] 27.8 Distribution and Replication 994
+		- [ ] 27.9 Full-Text Queries on Relational Data 998
+		- [ ] 27.10 Data Warehousing and Analysis Services 999
+		- [ ] 27.11 XML and Web Support 1002
+		- [ ] 27.12 Summary 1005
+		- [ ] Bibliographical Notes 1005
+- [ ] PART 9 APPENDICES
+	- [ ] Appendix A Network Model (contents online)
+		- [ ] A Basic Concepts A1
+		- [ ] A Data-Structure Diagrams A2
+		- [ ] A The DBTG CODASYL Model A7
+		- [ ] A DBTG Data-Retrieval Facility A13
+		- [ ] A DBTG Update Facility A20
+		- [ ] A DBTG Set-Processing Facility A22
+		- [ ] A Mapping of Networks to Files A27
+		- [ ] A Summary A31
+		- [ ] Exercises A32
+		- [ ] Bibliographical Notes A35
+	- [ ] Appendix B Hierarchical Model (contents online)
+		- [ ] B Basic Concepts B1
+		- [ ] B Tree-Structure Diagrams B2
+		- [ ] B Data-Retrieval Facility B13
+		- [ ] B Update Facility B18
+		- [ ] B Virtual Records B21
+		- [ ] B Mapping of Hierarchies to Files B22
+		- [ ] B The IMS Database System B24
+		- [ ] B Summary B25
+		- [ ] Exercises B26
+		- [ ] Bibliographical Notes B29
+	- [ ] Appendix C Advanced Relational Design (contents online)
+		- [ ] C Multivalued Dependencies C1
+		- [ ] C Join Dependencies C5
+		- [ ] C Domain-Key Normal Form C8
+		- [ ] C Summary C10
+		- [ ] Exercises C10
+		- [ ] Bibliographical Notes C11
+		- [ ] Bibliography 1007
+		- [ ] Index 1043

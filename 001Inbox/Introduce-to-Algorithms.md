@@ -1,8 +1,14 @@
 ---
-Aliases: 
-Tags: ["Book"]
+Aliases:
+tags:
+  - Book
+  - Process
 DateCreated: 2023-12-28T17:24
-DateModified: 2023-12-28T18:02
+DateModified: 2024-01-17T14:20
+Status: Ready
+Priority: 2
+StartDate: 2024-01-10
+DDL: 2024-03-20
 ---
 # Introduce-to-Algorithms
 
@@ -195,21 +201,25 @@ DateModified: 2023-12-28T18:02
 - VIII Appendix: Mathematical Background
 	- Introduction 1139
 	- A Summations 1140
-	- A Summation formulas and properties 1140
-	- A Bounding summations 1145
+		- A Summation formulas and properties 1140
+		- A Bounding summations 1145
 	- B Sets, Etc. 1153
-	- B Sets 1153
-	- B Relations 1158
-	- B Functions 1161
-	- B Graphs 1164
-	- B Trees 1169
+		- B Sets 1153
+		- B Relations 1158
+		- B Functions 1161
+		- B Graphs 1164
+		- B Trees 1169
 	- C Counting and Probability 1178
-	- C Counting 1178
-	- C Probability 1184
-	- C Discrete random variables 1191
-	- C The geometric and binomial distributions 1196
-	- C The tails of the binomial distribution 1203
+		- C Counting 1178
+		- C Probability 1184
+		- C Discrete random variables 1191
+		- C The geometric and binomial distributions 1196
+		- C The tails of the binomial distribution 1203
 	- D Matrices 1214
-	- D Matrices and matrix operations 1214
-	- D Basic matrix properties 1219
-	- Bibliography 1227
+		- D Matrices and matrix operations 1214
+		- D Basic matrix properties 1219
+- [Solutions](https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html)
+
+## Courses
+---
+- [MIT6.006-introduction-to-algorithms-spring-2020](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)

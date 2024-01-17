@@ -1,7 +1,7 @@
 ---
 Uid: 202305231513
 Aliases: 曲率
-Tags: Math
+tags: Math
 From: 
 ---
 # Curvature

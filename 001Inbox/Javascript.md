@@ -1,7 +1,7 @@
 ---
 Uid: 202305242228
 Aliases: js,Js
-Tags: Program/Language 
+tags: Program/Language 
 ---
 # Javascript
 

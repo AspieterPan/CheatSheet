@@ -1,6 +1,6 @@
 ---
 Aliases: Dataview
-Tags: Obsidian
+tags: Obsidian
 Via: 
 Priority: 4
 DateModified: 2023-06-28T08:53

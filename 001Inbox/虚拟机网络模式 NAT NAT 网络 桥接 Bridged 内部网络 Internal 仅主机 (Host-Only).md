@@ -1,6 +1,6 @@
 ---
 Aliases: 
-Tags: Reading
+tags: Reading
 Via: https://www.bilibili.com/video/BV11M4y1J7zP
 DateCreated: 2023-07-18T16:09
 DateModified: 2023-07-18T17:14

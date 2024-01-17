@@ -1,6 +1,6 @@
 ---
 Aliases: 
-Tags: Reading,Prompt,AI
+tags: Reading,Prompt,AI
 From: https://sspai.com/post/79923
 DateCreated: 2023-05-25T21:39
 DateModified: 2023-07-10T10:46

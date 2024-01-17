@@ -1,6 +1,6 @@
 ---
 Aliases: 
-Tags: Program/Language/Cpp
+tags: Program/Language/Cpp
 DateCreated: 2023-11-18T15:17
 DateModified: 2023-12-05T22:48
 ---
