@@ -1,0 +1,4 @@
+---
+Aliases: [ "#Mbti/Ni" ]
+---
+# Ni

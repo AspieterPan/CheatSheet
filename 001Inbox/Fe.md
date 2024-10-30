@@ -1,4 +1,0 @@
----
-Aliases: [ "#JungPsy/Fe" ]
----
-# Fe

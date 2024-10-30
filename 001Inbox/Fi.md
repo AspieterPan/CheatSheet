@@ -1,4 +1,0 @@
----
-Aliases: [ "#JungPsy/Fi" ]
----
-# Fi

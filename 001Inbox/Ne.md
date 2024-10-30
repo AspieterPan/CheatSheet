@@ -1,4 +1,0 @@
----
-Aliases: [ "#JungPsy/Ne" ]
----
-# Ne

@@ -7,6 +7,7 @@ PromptInfo:
  tags: writing, thinking, learning
  version: 0.0.1
 ---
+# summarize
 content: 
 {{context}}
 prompt:

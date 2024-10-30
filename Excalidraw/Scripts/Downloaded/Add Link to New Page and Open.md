@@ -1,3 +1,4 @@
+# Add Link to New Page and Open
 /*
 ![](https://raw.githubusercontent.com/zsviczian/obsidian-excalidraw-plugin/master/images/scripts-add-link-to-new-page-and-pen.jpg)
 

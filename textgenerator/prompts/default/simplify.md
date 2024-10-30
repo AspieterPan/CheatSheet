@@ -7,6 +7,7 @@ PromptInfo:
  tags: thinking, writing
  version: 0.0.1
 ---
+# simplify
 content: 
 {{context}}
 prompt:

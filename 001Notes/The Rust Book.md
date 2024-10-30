@@ -1,0 +1,339 @@
+---
+Aliases: 
+tags: ["计算机/编程语言/Rust"]
+DateCreated: 2024-05-29T00:18
+DateModified: 2024-06-11T21:44
+---
+# The Rust Book
+
+Links:: https://github.com/smoka7/multicursors.nvim
+
+## Contents
+---
+- foreword
+- introduction
+- 1. getting started
+	- 1.1. installations
+	- 1.2. hello, world!
+	- 1.3. hello, cargo!
+- 2. programming a guessing game
+- 3. common programming concepts
+	- 3.1. variables and mutability
+		- variables and mutability
+			- `let x = 1;` 声明一个不可变的变量
+			- `let mut x = 1;` 声明一个可变的变量
+		- constants
+			- `const three_hours_in_seconds: u32 = 60 * 60 * 3;`
+				- 类似 c 的 `#define max 50`
+			- 通常用来声明一些全局常量
+		- shadowing
+			- `let` 声明的变量可以再之后用 `let` 再次声明
+			- 但是不同于修改变量，这是重新声明的一个新的变量
+				- 只不过名称相同
+				- 同一作用域内有多个名称相同的变量的话
+					- 只会取最后一个
+				- 被覆盖的变量也会存在，直到离开作用域被回收
+	- 3.2. data types
+		- rust is a statically typed language
+		- scalar types
+			- integer types
+				- i/u
+					- 8/16/32/64/128
+				- isize/usize
+					- 64/32 bits if you're on a 64/32-bit architecture
+			- floating-point types
+				- f 32/64
+			- numeric operations
+				- `+ - * / %`
+			- the boolean type
+				- `let f:bool = false;`
+			- the character type
+				- `let c: char = 'z';`
+		- compound types
+			- the tuple type
+				- fixed length
+				- `let tup: (i32, f64, u8) = (500, 6.4, 1);`
+				- `let (x, y, z) = tup;`
+				- `let i = tup.0;`
+			- the array type
+				- `let a: [i32; 5] = [1, 2, 3, 4, 5];`
+				- `let first = a[0];`
+	- 3.3. functions
+		- `fn plus_one(x: i32) -> i32 { x + 1 }`
+		- statements
+			- some action
+			- do not return a value
+				- wrong: `let x = (let y = 6);`
+			- function definitions are also statements
+		- expressions
+			- evaluate to a value
+			- can be part of statements
+				- `let y = {let x = 3; x + 1};`
+			- calling a macro is an expression
+		- functions with return values
+	- 3.4. comments
+		- `// hello, world`
+	- 3.5. control flow
+		- if expressions
+			- `if number < 5 { true } else { false }`
+		- handling multiple conditions with else if
+			- `if con { } else if con { } else if con{ } else { }`
+		- using if in a let statement
+			- `let number = if con { 5 } else { 6 }`
+		- repetition with loops
+			- repeating code with loop
+				- `loop { println!{"again!"}; }`
+			- returning values from loops
+				- `let res = loop { coun += 1; if cout == 10 { break cout * 2; } }`
+			- loop labels to disambiguate between multiple loops
+				- `'counting_up: loop{ loop { if con1 { break; } if con2 { break 'counting_up; }`
+				- loop labels must begin with a single quote.
+		- conditional loops with `while`
+			- `while con { do }`
+		- looping through a collection with `for`
+			- `let a = [10, 20, 30 ,40, 50];`
+			- `for element in a { do } `
+			- `for number in (1..4).rev() { do }`
+- 4. understanding ownership
+	- 4.1. what is ownership
+		- the stack and the heap
+		- ownership rules
+			- each value in rust has an owner
+			- there can only be one owner at a time
+			- when the owner goes out of scope, the value will be dropped
+		- variable scope
+		- the string type
+			- `let s = string::from("hello");`
+			- `s.push_str(", world!");`
+		- memory and allocation
+			- 在其他语言中,一个 new 必须应对一个 delete 来释放在堆上的数据
+			- 在 rust 中, 堆数据的所有者在离开作用域时会自动销毁堆数据
+		- variables and data interacting with move
+			- 如果一份堆数据的引用被多个变量所持有,在这些变量离开作用域的时候,会多次销毁
+				- 这是被称为 "double free" 的内存安全 bug
+				- 所以 rust 中不允许引用拷贝
+					- 当 `let s2 = s1` 时,
+						- 实际上是 s2 拿走了 s1 中堆数据的所有权
+						- 之后在 s2 的作用域内,s1 无法正常使用
+					- rust 中这种行为称为 "move"
+						- 区别于 "shallow copy"
+		- variables and data interacting with clone
+			- `let s2 = s1.clone();`
+			- 相当于 "deeply copy"
+		- stack-only data: copy
+		- ownership and functions
+			- 堆上数据的所有者,作为参数传入函数后,会失去所有权
+			- 调用函数后, 堆上数据随着形参离开作用域而被销毁 (如果没有返回的话)
+		- return values and scope
+			- 函数内变量的所有权,可以通过函数返回来交接
+			- 如果函数要多个返回值,可以使用 tuple
+			- 更一般的,我们通常通过 "reference" 来传递参数
+	- 4.2. references and borrowing
+		- 在堆变量的名称前加 "&" 来获得一个引用
+		- 引用变量只是 "borrowing" 这个堆数据的所有权
+			- 当引用变量离开作用域的时候,
+				- 会自动把借来的所有权还给之前的变量
+		- 引用变量默认不可变
+			- 可以一样添加 "mut" 来声明一个可变的引用
+		- 同一个变量, 同时只能有最多一个**可变**引用
+			- 不可变的引用可以存在多个
+			- 防止 "data race"
+				- 并发下多指针同时访问一份数据导致的不可预期结果
+			- 如果已经有了不可变引用,
+				- 则不可声明新的可变引用
+		- 悬挂引用
+			- rust 中不存在悬挂引用
+				- 如果一个引用指向的对象不存在了, 这个引用会直接报错
+	- 4.3. the slice type
+		- a slice is a kind of reference.
+			- so, it does not have ownership.
+		- string slices
+			- `let s = string::from("hello world");`
+				- `let hello = &s[0..5];`
+				- `let world = &s[6..11];`
+				- the ending_index is not included.
+- 5. using structs to structure related data
+	- 5.1. defining and instantiating structs
+		- `struct user {`
+			- `active: bool, `
+			- `username: string,`  
+			- `email: string, `
+			- `sign_in_count: u64,`
+		- `}`
+		- `let user = user {`
+			- `active: true, `
+			- `username: string::from("someusername123"),`
+			- `email: string::from("someone@example.com"),`
+			- `sign_in_count: 1,`
+		- `};`
+	- 5.2. an example program using struct
+		- print a struct with `{:?}` instead of `{}`
+			- `println!("rect1 is {:?}", rect1);`
+		- print a struct with `dbg!`
+			- need to add a `#[derive(debug)]` before the definition of the struct
+			- `println!("rect1 is {:?}", rect1);`
+	- 5.3. method syntax
+		- add a function into a struct with `impl`.
+			- `impl structname { fn functionname(&self){} }`
+		- automatic referencing and dereferencing.
+			- don't use `->` for a reference to call the members. just use `.`
+- 6. enums and pattern matching
+	- 6.1. defining an enum
+		- `enum enumname { value1, value2, }`
+			- `let a = enumname::value1;`
+		- `enum enumname {value1(string), value2(u8, u8, u8), value3{x:i32, y:i32}, }`
+		- `impl enumname { funcsignature }`
+		- `enum option<t> { none, some<t>, }`
+	- 6.2. the match control flow construct
+		- `match enum_instance { enumname::value1 => value, enumname::value2 => {} enumname::value3(p1, p2) => {} }`
+		- matches are exhaustive.
+			- the `other` catches the other cases while the `_` throws the other cases
+	- 6.3. concise control flow with if let
+		- `if let enumname::value2(x, y, z) = instance {} else {}`
+- 7. managing growing projects with packages, crates, and modules
+	- 7.1. packages and crate
+		- crate: a file with modules
+			- binary crate: generate executable and contain main
+			- library crate: doesn't have a main function
+		- packages: the whole project, which can contain several crates
+	- 7.2. defining modules to control scope and privacy
+		- `mod modname{ }`
+			- like namespace in cpp
+	- 7.3. paths for referring to an item in the module trees
+		- exposing paths with the `pub` keyword
+		- absolute path(start with `crate:`) and relative path
+		- `super` points to the parent module
+	- 7.4. bringing paths into scope with the use keywords
+		- creating idiomatic `use` paths
+		- providing new names with the `as` keyword
+		- re-exporting names with `pub use`
+		- using external packages
+			- add to "cargo.toml" firstly
+		- `use std::{cmp::ordering, io};`
+	- 7.5. separating modules into different files
+- 8. common collections
+	- 8.1. storing lists of values with vectors
+		- creating a new vector
+			- `let v: vec<i32> = vec::new();`
+		- updating a vector
+			- `v.push(5);`
+		- reading elements of vectors
+			- `&v[100]`: panic if out of range
+			- `v.get(100)`: return option
+		- iterating over the values in a vector
+			- `for i in &v {}`
+		- using an enum to store multiple types
+		- dropping a vector drops its elements
+	- 8.2. storing utf-8 encoded text with strings
+		- what is a string?
+			- a growable, mutable, owned, utf-8 encoded string type
+		- creating a new string
+			- `let mut s = string::new();`
+			- `let s = "initial contents".to_string();`
+			- `let s = string::from("initial contents");`
+		- updating a string
+			- `s.push_str("bar");`
+		- concatenation with the `+` operator or the `format!` macro
+			- `let s = s1 + &s2 + &s3;`
+			- `let s = format!("{s1}-{s2}-{s3}");`
+		- indexing into strings
+			- slicing strings
+				- `&s[0..4]`
+			- methods for iterating over strings
+				- `s.chars()`
+				- `s.bytes()`
+	- 8.3. storing keys with associated values in hash maps
+		- creating a new hash map
+			- `use std::collections::hashmap;`
+			- `let mut scores = hashmap::new();`
+			- `scores.insert(string::from("blue"), 10);`
+		- accessing values in a hash map
+			- `let score = scores.get(&team_name).copied().unwrap_or(0);`
+		- updating a hash map
+			- overwriting a value with `insert`
+			- adding a key and value only if a key isn't present
+				- `scores.entry(string：：from("blue")).or_insert(50);`
+- 9. error handling
+	- 9.1. unrecoverable errors with panic!
+		- `rust_backtrace=1 cargo run`
+	- 9.2. recoverable errors with result!
+		- shortcuts for panic on error: unwrap and expect
+		- a shortcut for propagating errors: the ? operator
+	- [ ] 9.3. to panic! or not to panic!
+- [ ] 10. generic types, traits, and lifetimes
+	- [ ] 10.1. generic data typess
+	- [ ] 10.2. traits: defining shared behaviors
+	- [ ] 10.3. validating references with lifetimes
+- [ ] 11. writing automated tests
+	- [ ] 11.1. how to write tests
+	- [ ] 11.2. controlling how tests are runs
+	- [ ] 11.3. test organization
+- [ ] 12. an i/o project: building a command line program
+	- [ ] 12.1. accepting command line arguments
+	- [ ] 12.2. reading a files
+	- [ ] 12.3. refactoring to improve modularity and error handlings
+	- [ ] 12.4. developing the library's functionality with test driven developments
+	- [ ] 12.5. working with environment variables12.6. writing error messages to standard error instead of standard output
+- [ ] 13. functional language features: iterators and closures
+	- [ ] 13.1. closures: anonymous functions that capture their environment
+	- [ ] 13.2. processing a series of items with iterators
+	- [ ] 13.3. improving our i/o project
+	- [ ] 13.4. comparing performance: loops vs. iterators
+- [ ] 14. more about cargo and crates.io
+	- [ ] 14.1. customizing builds with release profiles
+	- [ ] 14.2. publishing a crate to crates.io
+	- [ ] 14.3. cargo workspaces
+	- [ ] 14.4. installing binaries from crates.io with cargo installs
+	- [ ] 14.5. extending cargo with custom commands
+- [ ] 15. smart pointers
+	- [ ] 15.1. using box\<t\> to point to data on the heap
+	- [ ] 15.2. treating smart pointers like regular references with the deref trait
+	- [ ] 15.3. running code on cleanup with the drop trait
+	- [ ] 15.4. rc\<t\>, the reference counted smart pointer
+	- [ ] 15.5. refcell\<t\> and the interior mutability pattern
+	- [ ] 15.6. reference cycles can leak memory
+- 16. fearless concurrency
+	- 共享数据用 Mutex 来上锁
+	- 16.1. using threads to run code simultaneously
+		- 用 Spawn 生成子线程
+			- 要用 move 把外部变量所有权转移到子线程内
+	- 16.2. using message passing to transfer data between threads
+		- 用管道 `let tx,rc = mpsc::channel();` 来在线程间传递数据
+	- 16.3. shared-state concurrency
+		- 多个线程间的所有权用 Arc
+	- 16.4. extensible concurrency with the sync and send traits
+		- 可以通过为自己的数据结构实现 Sync 和 Send Trait 来拓展并发编程（这一节没看懂，没有具体例子）
+- 17. object oriented programming features of rust
+	- 17.1. characteristics of object-oriented languages
+		- struct 加 impl 实现一个 " 对象 "
+			- pub 关键字来封装方法
+	- 17.2. using trait objects that allow for values of different types
+		- Box\<dyn trait\> 是一个 trait object，实现了多态效果
+			- 与 bound parameter 不同的是，使用 trait object 可以实现在一个 vector 内可以存储多种不同的类型
+			- Trait object 必须使用 dynamic dispatch，也就是在运行时分配，有一点性能损耗，但更加灵活
+			- 以设计模式中的 状态模式 为例，Rust 中不仅可以以传统的方式实现，还可以通过类型系统来实现类似的效果，并减少了代码的冗余度
+	- 17.3. implementing an object-oriented design pattern
+		- 用两种方式实现了设计模式中的状态模式
+			- 除了常规的面向对象的状态模式实现方法, 还可以用 Rust 特有的类型系统来实现, 代码更加精炼
+- [ ] 18. patterns and matching
+	- [ ] 18.1. all the places patterns can be used
+	- [ ] 18.2. refutability: whether a pattern might fail to match
+	- [ ] 18.3. pattern syntax
+- [ ] 19. advanced features
+	- [ ] 19.1. unsafe rusts
+	- [ ] 19.2. advanced traits
+	- [ ] 19.3. advanced types
+	- [ ] 19.4. advanced functions and closures
+	- [ ] 19.5. macros
+- [ ] 20. final project: building a multithreaded web server
+	- [ ] 20.1. building a single-threaded web servers
+	- [ ] 20.2. turning our single-threaded server into a multithreaded server
+	- [ ] 20.3. graceful shutdown and cleanup
+- [ ] 21. appendix
+	- [ ] 21.1. a - keywords
+	- [ ] 21.2. b - operators and symbols
+	- [ ] 21.3. c - derivable traits
+	- [ ] 21.4. d - useful development tools
+	- [ ] 21.5. e - editions
+	- [ ] 21.6. f - translations of the books
+	- [ ] 21.7. g - how rust is made and "nightly rust"

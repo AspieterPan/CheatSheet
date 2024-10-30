@@ -1,0 +1,140 @@
+---
+DateCreated: 2024-07-16T22:38
+DateModified: 2024-07-16T22:42
+---
+# 产品经理的 AI 宝库
+
+Link:: [产品经理的 AI 宝库](https://easyai.tech/)
+
+## Introduce
+---
+- 用文科生也能听懂的方式介绍人工智能中的各种概念
+
+## Contents
+---
+- [ ] AI 算法 (37)
+	- [ ] Attention 机制
+	- [ ] Encoder-Decoder 和 Seq2Seq
+	- [ ] Q-Learning
+	- [ ] Adaboost 算法
+	- [ ] 随机森林 - Random forest
+	- [ ] 学习向量量化 - Learning vector quantization | LVQ
+	- [ ] K 邻近 - k-nearest neighbors | KNN
+	- [ ] 线性判别分析 - Linear Discriminant Analysis | LDA
+	- [ ] TF-IDF
+	- [ ] 元学习 - Meta learning
+	- [ ] 遗传算法（Genetic algorithm | GA）
+	- [ ] 判别式模型（Discriminative model）
+	- [ ] 产生式模型（Generative model）
+	- [ ] Latent Dirichlet Allocation|LDA
+	- [ ] 启发式算法 - Heuristic
+	- [ ] 粒子群算法（Particle swarm optimization | PSO）
+	- [ ] 人工神经网络 - Artificial Neural Network | ANN
+	- [ ] 迁移学习（Transfer learning）
+	- [ ] 长短期记忆网络 - Long short-term memory | LSTM
+	- [ ] 生成对抗网络 - Generative Adversarial Networks | GAN
+	- [ ] 循环神经网络 - Recurrent Neural Network | RNN
+	- [ ] 卷积神经网络 - CNN
+	- [ ] 受限玻尔兹曼机（Restricted Boltzmann machine | RBM）
+	- [ ] 强化学习 -Reinforcement learning | RL
+	- [ ] 自编码器（Autoencoder）
+	- [ ] 前馈神经网络（Feedforward neural network）
+	- [ ] 模糊神经网络（Neuro-fuzzy | FNN）
+	- [ ] 自组织映射（Self-organization map | SOM）
+	- [ ] K 均值聚类（k-means clustering）
+	- [ ] 反向传播算法（Backpropagation）
+	- [ ] 集成学习（Ensemble Learning）
+	- [ ] 支持向量机 - Support Vector Machine | SVM
+	- [ ] 决策树 - Decision tree
+	- [ ] 逻辑回归 - Logistic regression
+	- [ ] 朴素贝叶斯 - Naive Bayes classifier | NBC
+	- [ ] 线性回归 - linear regression
+	- [ ] 机器学习 - machine learning | ML
+- [ ] 基础科普 (15)
+	- [ ] 训练集、验证集、测试集（附：分割方法 + 交叉验证）
+	- [ ] 分类模型评估指标——准确率、精准率、召回率、F1、ROC 曲线、AUC 曲线
+	- [ ] 预训练（Pre-train）
+	- [ ] 无监督学习 - Unsupervised learning | UL
+	- [ ] 监督学习 - Supervised learning
+	- [ ] 大数据（Big data）
+	- [ ] TPU（Tensor Processing Unit）
+	- [ ] ASIC（Application Specific Integrated Circuit）
+	- [ ] FPGA（Field－Programmable Gate Array）
+	- [ ] GPU(Graphics Processing Unit)
+	- [ ] 算力 - computation
+	- [ ] 算法 - Algorithm
+	- [ ] 图灵测试 - The Turing Test
+	- [ ] 弱人工智能、强人工智能、超人工智能
+	- [ ] 人工智能 - Artificial intelligence | AI
+- [ ] 数学基础 (16)
+	- [ ] 张量 | Tensor
+	- [ ] 随机梯度下降法（Stochastic gradient descent | SGD）
+	- [ ] 梯度下降法 - Gradient descent
+	- [ ] 约束优化（Constrained optimization）
+	- [ ] 估计理论（Estimation theory）
+	- [ ] 假设检验（Hypothesis test）
+	- [ ] 数理统计（Mathematical statistics）
+	- [ ] 最大后验概率（Maximum a posteriori estimation | MAP）
+	- [ ] 最大似然估计 - Maximum Likelihood Estimate | MLE
+	- [ ] 后验概率（Posterior probability）
+	- [ ] 先验概率（Prior probability）
+	- [ ] 概率论（Probability theory）
+	- [ ] 矩阵 | Matrix
+	- [ ] 标量 | scalar
+	- [ ] 向量 | vector
+	- [ ] 线性代数（linear algebra）
+- [ ] 机器学习 (12)
+	- [ ] Adaboost 算法
+	- [ ] 随机森林 - Random forest
+	- [ ] 无监督学习 - Unsupervised learning | UL
+	- [ ] 监督学习 - Supervised learning
+	- [ ] K 均值聚类（k-means clustering）
+	- [ ] 集成学习（Ensemble Learning）
+	- [ ] 支持向量机 - Support Vector Machine | SVM
+	- [ ] 决策树 - Decision tree
+	- [ ] 逻辑回归 - Logistic regression
+	- [ ] 朴素贝叶斯 - Naive Bayes classifier | NBC
+	- [ ] 线性回归 - linear regression
+	- [ ] 机器学习 - machine learning | ML
+- [ ] 深度学习 (8)
+	- [ ] 胶囊神经网络
+	- [ ] Attention 机制
+	- [ ] 深度学习 - Deep learning | DL
+	- [ ] 长短期记忆网络 - Long short-term memory | LSTM
+	- [ ] 生成对抗网络 - Generative Adversarial Networks | GAN
+	- [ ] 循环神经网络 - Recurrent Neural Network | RNN
+	- [ ] 卷积神经网络 - CNN
+	- [ ] 强化学习 -Reinforcement learning | RL
+- [ ] 特征工程 (4)
+	- [ ] 分类特征
+	- [ ] 数值类特征
+	- [ ] 探索性数据分析 | EDA
+	- [ ] 特征工程 - Feature Engineering
+- [ ] 自然语言处理 (16)
+	- [ ] Attention 机制
+	- [ ] Encoder-Decoder 和 Seq2Seq
+	- [ ] 词干提取 - Stemming | 词形还原 - Lemmatisation
+	- [ ] 分词 - Tokenization
+	- [ ] 词性标注 - Part of speech
+	- [ ] 成分句法分析
+	- [ ] 词嵌入 | Word embedding
+	- [ ] Word2vec
+	- [ ] 依存句法分析 -Constituency-based parse trees
+	- [ ] 自然语言生成 - Natural-language generation | NLG
+	- [ ] 自然语言理解 - NLU | NLI
+	- [ ] Transformer
+	- [ ] 文本挖掘 - Text mining
+	- [ ] BERT | Bidirectional Encoder Representation from Transformers
+	- [ ] 命名实体识别 - Named-entity recognition | NER
+	- [ ] 自然语言处理 -Natural language processing | NLP
+- [ ] 计算机视觉 (5)
+	- [ ] 胶囊神经网络
+	- [ ] 人脸识别 | Facial recognition
+	- [ ] 计算机视觉 - Computer Vision | CV
+	- [ ] 卷积神经网络 - CNN
+	- [ ] 支持向量机 - Support Vector Machine | SVM
+- [ ] 语音交互 (4)
+	- [ ] 语音合成标记语言 -SSML 丨 Speech Synthesis Markup Language
+	- [ ] 语音识别技术 - ASR 丨 Automatic Speech Recognition
+	- [ ] 音素 - phone | phonetics
+	- [ ] 语音合成（Text to Speech | TTS）

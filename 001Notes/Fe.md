@@ -1,0 +1,4 @@
+---
+Aliases: [ "#Mbti/Fe" ]
+---
+# Fe

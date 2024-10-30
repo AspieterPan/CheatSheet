@@ -1,4 +1,0 @@
----
-Aliases: [ "#JungPsy/Ni" ]
----
-# Ni

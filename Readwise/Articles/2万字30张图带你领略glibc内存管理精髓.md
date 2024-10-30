@@ -31,7 +31,12 @@ URL: https://mp.weixin.qq.com/s?__biz=Mzk0MzI4OTI1Ng==&mid=2247485953&idx=1&sn=f
 - mmap()函数将一个文件或者其它对象映射进内存。文件被映射到多个页上，如果文件的大小不是所有页的大小之和，最后一个页不被使用的空间将会清零。
   munmap 执行相反的操作，删除特定地址区域的对象映射。
   函数的定义如下：
-  #include <sys/mman.h>void *mmap(void *addr, size_t length, int prot, int flags, int fd, off_t offset); int munmap(void *addr, size_t length); ([View Highlight](https://read.readwise.io/read/01h8y4znnwbcr4zb7m3kk361d6))
+  
+  ```C
+#include <sys/mman.h>
+void *mmap(void *addr, size_t length, int prot, int flags, int df, off_t offset);
+int munmap(void *addr, size_t length); 
+```
 
 - 映射关系分为以下两种：
   • 文件映射: 磁盘文件映射进程的虚拟地址空间，使用文件内容初始化物理内存。

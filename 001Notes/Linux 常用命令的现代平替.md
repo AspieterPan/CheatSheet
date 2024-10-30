@@ -1,0 +1,28 @@
+# Linux 常用命令的现代平替
+
+- rm 
+	- rip
+- ls
+	- exa
+- top
+	- hop
+	- bottom
+- grep
+	- ripgrep
+- find
+	- fd
+- awk
+	- choose
+	- frawk
+- tmux
+	- zellij
+- cd 
+	- yazi
+- vim
+	- neovim
+	- helix
+- bash
+	- zsh 
+	- fish
+	- nushell
+- 
